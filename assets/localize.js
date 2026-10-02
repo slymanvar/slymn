@@ -6,7 +6,7 @@
   let dictionary={},language='en',step=-1,captionURL;
   const get=(key)=>key.split('.').reduce((value,k)=>value?.[k],dictionary[language]);
   const t=(key)=>get(key)??key.split('.').reduce((v,k)=>v?.[k],dictionary.en)??key;
-  const set=(id,value)=>{const el=document.getElementById(id);if(el)el.textContent=value;};
+  const set=(id,value)=>{const el=document.getElementById(id);if(el)if(el.textContent!==value)el.textContent=value;};
   function guide(){
     if(!document.getElementById('storyImage'))return;
     const index=Math.max(step,0);
@@ -17,7 +17,6 @@
     set('next',step<0?t('start'):step===7?t('restart'):t('next'));
     document.getElementById('back').hidden=step<=0;
   }
-  function caption(){const video=document.getElementById('introVideo');if(!video)return;const i=Math.min(7,Math.max(0,Math.floor(video.currentTime/3)));set('videoCaption',t(`steps.${i}.0`)+' '+t(`steps.${i}.1`));}
   function tracks(){
     const video=document.getElementById('introVideo');if(!video)return;
     video.querySelectorAll('track').forEach(el=>el.remove());
@@ -27,10 +26,10 @@
     for(let i=0;i<8;i++)vtt+=`${i+1}\n${time(i*3)} --> ${time((i+1)*3)}\n${t(`steps.${i}.0`)}\n${t(`steps.${i}.1`)}\n\n`;
     captionURL=URL.createObjectURL(new Blob([vtt],{type:'text/vtt'}));
     const track=document.createElement('track');track.kind='subtitles';track.srclang=language;track.label=dictionary[language].name;track.default=true;track.src=captionURL;video.append(track);
-    track.addEventListener('load',()=>{track.track.mode='showing';});caption();
+    track.addEventListener('load',()=>{track.track.mode='showing';});
   }
   function apply(next){
-    language=next;document.documentElement.lang=language;
+    language=next;document.documentElement.lang=language;document.documentElement.setAttribute('translate','no');
     document.querySelectorAll('[data-i18n]').forEach(el=>{el.textContent=t(el.dataset.i18n);});
     document.querySelectorAll('[data-i18n-alt]').forEach(el=>{el.alt=t(el.dataset.i18nAlt);});
     const select=document.getElementById('language');if(select){select.value=language;select.setAttribute('aria-label',t('nav.2'));}
@@ -44,7 +43,6 @@
     document.getElementById('language')?.addEventListener('change',e=>{const value=match(e.target.value)||'en';try{localStorage.setItem('svrl-language',value);}catch{}apply(value);const url=new URL(location.href);url.searchParams.set('lang',value);history.replaceState(null,'',url);});
     document.getElementById('next')?.addEventListener('click',()=>{step=step===7?0:step+1;guide();});
     document.getElementById('back')?.addEventListener('click',()=>{if(step>0){step--;guide();}});
-    document.getElementById('introVideo')?.addEventListener('timeupdate',caption);
     window.SVRL.apply=apply;
   }).catch(()=>{document.documentElement.dataset.ready='true';const notice=document.getElementById('languageError');if(notice)notice.hidden=false;});
   document.getElementById('feedbackForm')?.addEventListener('submit',e=>{
