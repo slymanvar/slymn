@@ -36,7 +36,7 @@
   document.querySelectorAll('a[href]').forEach(a=>{const raw=a.getAttribute('href');if(!/^daily-planner(?:-(support|privacy|terms))?\.html/.test(raw))return;const url=new URL(raw,location.href);url.searchParams.set('lang',language);a.setAttribute('href',url.pathname.split('/').pop()+url.search+url.hash)});guide();
  }
  window.DailyPlanner={choose,apply:(lang)=>apply(lang),screen};
- fetch('assets/planner/locales.json').then(r=>{if(!r.ok)throw Error('Translations unavailable');return r.json()}).then(data=>{
+ fetch('assets/planner/locales.json?v=20261003-2').then(r=>{if(!r.ok)throw Error('Translations unavailable');return r.json()}).then(data=>{
   dictionary=data;let saved;try{saved=localStorage.getItem('daily-planner-language')}catch{}apply(choose(new URLSearchParams(location.search).get('lang'),saved,navigator.languages||[navigator.language]));
   document.getElementById('language').addEventListener('change',e=>{const lang=match(e.target.value)||'en';try{localStorage.setItem('daily-planner-language',lang)}catch{}const url=new URL(location.href);url.searchParams.set('lang',lang);history.replaceState(null,'',url);apply(lang)});
   document.getElementById('previous')?.addEventListener('click',()=>{if(step>0){step--;guide()}});document.getElementById('next')?.addEventListener('click',()=>{if(step<7){step++;guide()}});
