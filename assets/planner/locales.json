@@ -1,0 +1,2034 @@
+{
+  "en": {
+    "hero": "Your days, your story.",
+    "lead": "Plan what matters. Keep a diary that grows from the days you actually live.",
+    "features": [
+      [
+        "Today & Later",
+        "Add a task by typing or speaking. Set dates, reminders and repeats; due tasks move into Today."
+      ],
+      [
+        "My Days: task history",
+        "Review planned, completed and unfinished tasks by date. Open the diary page for that day."
+      ],
+      [
+        "A diary, page by page",
+        "Completed tasks, your own words and selected photos come together in one record per day. Browse pages or jump to a date; no need to write your completed tasks again."
+      ],
+      [
+        "Two ways to feel at home",
+        "Storybook keeps your fox scene visible while the task list scrolls. Editorial offers a calm layout; Pro lets you replace supported decorative photos."
+      ],
+      [
+        "Make it easy to read",
+        "Choose Handwriting, System or Rounded in Appearance. Your preference is saved and supported text follows the phone’s text-size setting."
+      ]
+    ],
+    "steps": [
+      [
+        "Two worlds. One app.",
+        "Choose the warmth of Storybook or the calm of Editorial."
+      ],
+      [
+        "Plan your day",
+        "See your tasks and mark them complete while your fox scene stays in view."
+      ],
+      [
+        "Type it. Or say it.",
+        "Speak a task, then review its date, time and reminder before adding it."
+      ],
+      [
+        "Keep future tasks in order",
+        "Tomorrow, upcoming days or someday: each task has its place until it is due."
+      ],
+      [
+        "Look back at your days",
+        "My Days brings together your dated task history."
+      ],
+      [
+        "Your diary, ready to open",
+        "Your words, photos and completed tasks form a personal diary page. Turn back to earlier days whenever you like."
+      ],
+      [
+        "A calm Editorial view",
+        "Keep the same records in a quieter design. With Pro, personalise supported decorative photos."
+      ],
+      [
+        "Choose your world",
+        "Change your theme or font later in Appearance. Your records stay with you."
+      ]
+    ],
+    "ui": [
+      "Today",
+      "Later",
+      "My Days",
+      "Journal",
+      "More",
+      "Good evening!",
+      "Everything is done for today. Well done!",
+      "completed",
+      "Breakfast",
+      "Language lesson",
+      "Go for a walk",
+      "Read a book",
+      "Tomorrow",
+      "Upcoming",
+      "Someday",
+      "New task",
+      "Tomorrow at 10, call the dentist",
+      "Quick Add",
+      "It was a lovely day. I finished my lesson and walked by the river.",
+      "What I did today",
+      "Add photo",
+      "Handwriting",
+      "System",
+      "Rounded",
+      "Font",
+      "Date",
+      "Reminder",
+      "Repeat",
+      "Choose your world",
+      "Start",
+      "Next",
+      "Back",
+      "App screens",
+      "Watch the introduction",
+      "Captions",
+      "Original Turkish app screenshots"
+    ],
+    "faq": [
+      [
+        "Will AI write my diary?",
+        "No. The summary comes from completed tasks. Your story is what you type or dictate; events and feelings are not invented, and no separate audio archive is kept."
+      ],
+      [
+        "How are Journal and My Days different?",
+        "My Days is task history. Journal is your personal diary, with your words, photos and completed-task summary. Both use the same dated record."
+      ],
+      [
+        "Does FREE become a paid subscription?",
+        "No. FREE covers basic features for 72 hours, not Pro. A paid subscription starts only when you choose and confirm a purchase."
+      ],
+      [
+        "Can I change photos and fonts?",
+        "Fonts are selected in Appearance. Pro lets you replace the supported Editorial decorative photos, adjust framing and restore defaults. They are separate from diary photos; saved personal photos are retained when Pro ends."
+      ],
+      [
+        "Where is my content stored?",
+        "Records and selected photos are stored locally. This website does not receive your diary or tasks. iCloud sync is not available in the current build."
+      ],
+      [
+        "Can I download it now?",
+        "The App Store link will be added after publication. Purchases are not active yet."
+      ]
+    ],
+    "privacy": [
+      [
+        "Scope",
+        "This notice covers the current Daily Planner build. App Store publication and subscription-service setup are pending; purchase-related processing described below applies when those services are enabled."
+      ],
+      [
+        "Who to contact",
+        "Daily Planner is developed by SLYMN. Contact: smanvar4255@gmail.com."
+      ],
+      [
+        "Tasks, notes and photos",
+        "The app stores task records, journal text, completion history, preferences and photos you select in its local storage. The current build has no app account, advertising SDK or AI journal-writing service. Device data is used to provide planning, journal and search features."
+      ],
+      [
+        "Microphone and speech recognition",
+        "Voice entry is optional. The app asks for microphone and speech-recognition permission when you use it. Audio is used to transcribe speech into editable text. Depending on your device and Apple service support, recognition may send audio to Apple and require a network connection. The initial scope does not include keeping a separate audio-recording library."
+      ],
+      [
+        "iCloud status",
+        "iCloud synchronisation is not available in the current build and is not included in the current Pro feature list. This notice will be updated before any future cloud synchronisation is enabled."
+      ],
+      [
+        "Purchases and RevenueCat",
+        "Apple handles purchases. RevenueCat is planned for subscription validation and entitlement management. Its SDK may process an app user identifier, purchase history, entitlement and transaction data, and technical metadata. The developer does not receive your full payment-card details. The final SDK configuration and data declarations will be verified before release."
+      ],
+      [
+        "Notifications and permissions",
+        "Local reminders use your task dates and reminder choices. Notifications can be disabled in iOS Settings. Photo access uses your selected items. Refusing optional microphone, speech or notification permissions does not require sending journal data to the developer."
+      ],
+      [
+        "Retention and deletion",
+        "Local content is kept until you remove it or the app’s storage is removed. Device backups can have separate retention. You can remove task and journal content in the app and manage microphone, speech and notification access through Apple settings. For a question about data sent directly to support, email the contact above."
+      ],
+      [
+        "Support and this website",
+        "If you email support, the developer receives your email address and message. Share only what is necessary. This site is hosted on GitHub Pages, which may process request/network logs under GitHub’s privacy statement. The site stores your chosen language locally in your browser; it has no added advertising or analytics script."
+      ],
+      [
+        "Your choices",
+        "You may ask about, correct or request deletion of personal information you directly supplied to support. Where applicable, rights may include access, restriction, objection and portability, and you may contact a relevant data-protection authority. Requests about Apple or RevenueCat-held data may require contacting those providers."
+      ],
+      [
+        "Updates",
+        "This notice will be updated if the released app’s data handling changes. Provider information: Apple privacy policy and RevenueCat privacy policy are linked below."
+      ],
+      [
+        "Your daily record",
+        "Tasks, completion history, your written or transcribed words and selected journal photos are linked to their date. Journal and My Days use the same day record. The diary summary uses completed tasks; it does not invent stories or feelings. Decorative Editorial photos and font preferences are stored separately from journal photos. This website does not receive your tasks, diary or photos. No separate audio archive is saved."
+      ],
+      [
+        "Publisher and contact",
+        "Süleyman Varol · SLYMN · smanvar4255@gmail.com"
+      ]
+    ],
+    "terms": [
+      [
+        "Status and provider",
+        "Daily Planner is an iPhone planning and personal diary app by SLYMN. This page describes the planned product and subscription model, not a current purchase offer. Contact: smanvar4255@gmail.com."
+      ],
+      [
+        "Use of the app",
+        "Use the app lawfully and keep rights to content you add. Your tasks, notes and photos remain your content. Do not use the app to infringe others’ rights. Daily Planner is a planning aid, not a guaranteed notification or emergency service."
+      ],
+      [
+        "FREE period",
+        "Basic FREE features are available for the first 72 hours from initial use. Pro features are not included in this period. At the end of FREE, continued paid use requires an explicit purchase. FREE does not automatically enrol you in a subscription."
+      ],
+      [
+        "Pro subscriptions",
+        "Planned US prices are $4.99 monthly or $39.99 yearly. The actual local price, duration and applicable taxes appear in Apple’s purchase confirmation. No weekly or lifetime plan and no Pro free trial are planned. Paid subscriptions automatically renew unless cancelled through your Apple account."
+      ],
+      [
+        "Payment, cancellation and restoration",
+        "Apple manages billing. Manage or cancel in Apple account subscription settings. Cancellation generally stops future renewal; the confirmed paid access period is governed by Apple’s terms. Deleting the app does not cancel a subscription. Restore eligible purchases in the app. Refund requests can be made through Apple; eligibility is determined by Apple and applicable law."
+      ],
+      [
+        "Content and availability",
+        "Protect your own important records and backups. Speech recognition, notifications and purchases depend on device permissions and external service availability. Reminders may be delayed or suppressed by iOS settings; do not rely on this app as an emergency alarm."
+      ],
+      [
+        "Changes and consumer rights",
+        "Features and these terms may change with updates; material changes will be communicated where required. Nothing here excludes mandatory consumer rights or liabilities that cannot legally be excluded. Apple’s standard licensed application agreement applies unless a valid custom agreement is supplied."
+      ],
+      [
+        "Questions",
+        "For support or questions about these terms, contact smanvar4255@gmail.com. Privacy practices are described separately in the Privacy Policy."
+      ],
+      [
+        "Journal and personalisation",
+        "Your diary combines real completed tasks with your own words and selected photos. You remain responsible for the content you add. Pro includes replacement of supported Editorial decorative photos. When Pro ends, defaults are displayed; saved personal photos are retained for renewed access."
+      ],
+      [
+        "Publisher and contact",
+        "Süleyman Varol · SLYMN · smanvar4255@gmail.com"
+      ]
+    ],
+    "support": [
+      [
+        "Contact",
+        "For questions, feedback or an issue, contact SLYMN Support."
+      ],
+      [
+        "What to include",
+        "Include your app version/build, iOS version, device model and the steps that led to the issue. Send a screenshot only if it contains no private journal content, identifiers or payment details."
+      ],
+      [
+        "Reminders",
+        "Check notification permission and Focus settings in iOS. Review the task date and reminder time. Changing a task should also update its reminder."
+      ],
+      [
+        "Voice entry",
+        "Check microphone and speech-recognition permissions. Device language, network and Apple service availability can affect transcription. You can use typed task entry instead."
+      ],
+      [
+        "Purchases",
+        "After release, use Restore Purchases in the app with the Apple account used to buy Pro. Manage or cancel subscriptions in Apple account settings. Billing and refund requests are handled by Apple."
+      ],
+      [
+        "Personal content",
+        "Do not uninstall the app as a first troubleshooting step if it contains important local records. iCloud sync is not available in the current build. Ask support before taking steps that could remove your data."
+      ],
+      [
+        "Privacy requests",
+        "To ask about information directly sent to support, contact the support link above. Never email full journal archives or sensitive identity documents as part of an ordinary support request."
+      ],
+      [
+        "My Days and Journal",
+        "My Days shows dated task history. Journal opens your prepared diary page with your words, photos and completed-task summary. Swipe between diary pages or use the arrows; use the date button to jump to a day. Add or edit your story on that page, by typing or speaking. You do not need to write completed tasks again."
+      ],
+      [
+        "Appearance",
+        "In More → Appearance → Font, choose Handwriting, System or Rounded. In Storybook Today, scroll the task list while the fox scene stays visible. With Pro, tap an Editorial decorative photo to replace it, adjust its framing or restore the default. These photos are separate from diary photos. If Pro ends, your chosen photos are kept while the defaults are displayed."
+      ],
+      [
+        "Publisher and contact",
+        "Süleyman Varol · SLYMN · smanvar4255@gmail.com"
+      ]
+    ],
+    "notes": [
+      "App Store link after publication. Purchases are not active yet.",
+      "The current app is available in Turkish and English. This website supports eight languages; the other app languages will follow later.",
+      "Localised web previews based on the supplied designs, not screenshots of an app released in these languages. Turkish originals are available below.",
+      "A silent visual introduction. Captions follow your chosen language. Play when you are ready; nothing starts automatically.",
+      "Planned US prices: $4.99 monthly / $39.99 yearly. Apple shows the final local price, taxes and period before purchase. No weekly or lifetime plan and no Pro free trial.",
+      "Explore the app at your own pace. Eight steps, with clear text in your language.",
+      "For private help, email your app version, iOS version, device model and steps to reproduce the issue. Avoid private diary content and payment details.",
+      "Readable fonts in both themes.",
+      "Pro: dated task history, diary pages, your words and photos, advanced search, widget and supported Editorial photo personalisation.",
+      "FREE: basic planning for the first 72 hours. No automatic charge."
+    ],
+    "labels": {
+      "nav": [
+        "Guide",
+        "Support",
+        "Language"
+      ],
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use",
+      "updated": "Updated 2 October 2026",
+      "faq": "Frequently asked questions",
+      "contact": "Private support",
+      "contactLead": "Email us with your app version, iOS version and steps to reproduce the issue. Do not send sensitive documents or payment details.",
+      "feedback": "Help shape the next version.",
+      "noReviews": "No user reviews are published here yet. Read or share real feedback through GitHub.",
+      "readFeedback": "Read community feedback",
+      "kind": "What would you like to share?",
+      "kinds": [
+        "Review",
+        "Question",
+        "Feature request",
+        "Bug report"
+      ],
+      "subject": "Subject",
+      "message": "Your message",
+      "send": "Continue to GitHub",
+      "feedbackNote": "This opens a draft, not a submission. You review and publish it on GitHub. A GitHub account is required and published feedback is public. Do not include private documents or personal IDs.",
+      "support": "Support"
+    }
+  },
+  "tr": {
+    "hero": "Günlerin, senin hikâyen.",
+    "lead": "Yapacaklarını planla. Yaşadığın günlerden oluşan kişisel günlük defterin kendiliğinden biriksin.",
+    "features": [
+      [
+        "Bugün ve Gelecek",
+        "Görevini yaz veya söyle. Tarih, hatırlatma ve tekrar belirle; zamanı gelen görevler Bugün’e geçsin."
+      ],
+      [
+        "Günlerim: görev geçmişi",
+        "Planlanan, tamamlanan ve yapılmayan işleri tarihe göre incele. O günün günlük sayfasını da buradan aç."
+      ],
+      [
+        "Günlüğün, sayfa sayfa",
+        "Tamamladığın işler, kendi sözlerin ve seçtiğin fotoğraflar her tarih için tek kayıtta birleşir. Sayfaları gez veya tarih seç; yaptığın işleri tekrar yazman gerekmez."
+      ],
+      [
+        "İki farklı dünya",
+        "Storybook’ta görev listesi kayarken tilki sahnesi görünür kalır. Editorial sakin bir düzen sunar; Pro ile desteklenen dekoratif fotoğrafları değiştirebilirsin."
+      ],
+      [
+        "Rahatça oku",
+        "Görünüm’den El yazısı, Sistem veya Yuvarlak seç. Tercihin kaydedilir; desteklenen metinler telefonunun yazı boyutu ayarına uyar."
+      ]
+    ],
+    "steps": [
+      [
+        "İki dünya, tek uygulama",
+        "Storybook’un sıcaklığını veya Editorial’ın sakinliğini seç."
+      ],
+      [
+        "Gününü planla",
+        "Görevlerini gör ve tamamla; tilki sahnesi gözünün önünde kalsın."
+      ],
+      [
+        "Yaz ya da söyle",
+        "Görevini konuşarak ekle; kaydetmeden önce tarihini, saatini ve hatırlatmasını kontrol et."
+      ],
+      [
+        "Geleceği düzenle",
+        "Yarın, yaklaşan günler veya bir gün: zamanı gelene kadar her görev kendi yerinde."
+      ],
+      [
+        "Günlerine dönüp bak",
+        "Günlerim, tarihlere göre görev geçmişini bir araya getirir."
+      ],
+      [
+        "Günlüğün hazır, aç ve oku",
+        "Kendi sözlerin, fotoğrafların ve tamamladığın işler kişisel bir günlük sayfasına dönüşür. İstediğinde önceki günleri gez."
+      ],
+      [
+        "Sakin bir Editorial dünyası",
+        "Aynı kayıtları daha sade bir görünümde kullan. Pro ile desteklenen dekoratif fotoğrafları kişiselleştir."
+      ],
+      [
+        "Dünyanı seç",
+        "Temanı ve yazı tipini sonra Görünüm’den değiştirebilirsin. Kayıtların seninle kalır."
+      ]
+    ],
+    "ui": [
+      "Bugün",
+      "Gelecek",
+      "Günlerim",
+      "Günlük",
+      "Daha Fazla",
+      "İyi akşamlar!",
+      "Bugünün tüm işleri tamam. Harikasın!",
+      "tamamlandı",
+      "Kahvaltı",
+      "Dil dersi",
+      "Yürüyüş yap",
+      "Kitap oku",
+      "Yarın",
+      "Yaklaşan",
+      "Bir Gün",
+      "Yeni görev",
+      "Yarın saat 10’da dişçiyi ara",
+      "Hızlı Ekle",
+      "Bugün çok güzel bir gündü. Dersimi bitirdim ve nehir kenarında yürüdüm.",
+      "Bugün yaptıklarım",
+      "Fotoğraf ekle",
+      "El yazısı",
+      "Sistem",
+      "Yuvarlak",
+      "Yazı tipi",
+      "Tarih",
+      "Hatırlatma",
+      "Tekrar",
+      "Dünyanı seç",
+      "Başla",
+      "Devam",
+      "Geri",
+      "Uygulama ekranları",
+      "Tanıtımı izle",
+      "Altyazı",
+      "Orijinal Türkçe uygulama ekranları"
+    ],
+    "faq": [
+      [
+        "Günlüğümü AI mı yazacak?",
+        "Hayır. Özet tamamlanan görevlerden oluşur. Anlatım, yazdığın veya söylediğin kendi sözlerindir; olay ve duygu uydurulmaz, ayrı ses arşivi tutulmaz."
+      ],
+      [
+        "Günlük ile Günlerim’in farkı nedir?",
+        "Günlerim görev geçmişidir. Günlük ise kendi sözlerin, fotoğrafların ve tamamlanan işlerinle kişisel günlük defterindir. İkisi aynı tarihli kaydı kullanır."
+      ],
+      [
+        "FREE kendiliğinden ücretli aboneliğe dönüşür mü?",
+        "Hayır. FREE, Pro’yu değil temel özellikleri 72 saat kapsar. Ücretli abonelik yalnız satın almayı sen seçip onaylarsan başlar."
+      ],
+      [
+        "Fotoğrafları ve yazı tipini değiştirebilir miyim?",
+        "Yazı tipini Görünüm’den seç. Pro ile desteklenen Editorial dekoratif fotoğraflarını değiştir, kadrajını ayarla veya varsayılana dön. Günlük fotoğraflarından ayrıdır; Pro bittiğinde kişisel fotoğraflar saklanır."
+      ],
+      [
+        "İçeriklerim nerede saklanır?",
+        "Kayıtların ve seçtiğin fotoğraflar cihazda saklanır. Bu site günlük veya görev verilerini almaz. Mevcut sürümde iCloud senkronizasyonu yoktur."
+      ],
+      [
+        "Şimdi indirebilir miyim?",
+        "App Store bağlantısı yayımlandıktan sonra eklenecek. Satın alma henüz etkin değil."
+      ]
+    ],
+    "privacy": [
+      [
+        "Kapsam",
+        "Bu metin mevcut Daily Planner sürümünü kapsar. App Store yayını ve abonelik hizmeti kurulumu beklenmektedir; aşağıdaki satın alma işlemleri bu hizmetler etkinleştirildiğinde geçerlidir."
+      ],
+      [
+        "İletişim",
+        "Daily Planner, SLYMN’in uygulamasıdır. İletişim: smanvar4255@gmail.com."
+      ],
+      [
+        "Görevler, notlar ve fotoğraflar",
+        "Uygulama görev kayıtlarını, günlük yazılarını, tamamlanma geçmişini, tercihlerini ve seçtiğin fotoğrafları yerel olarak saklar. Uygulama hesabı, reklam SDK’sı veya AI ile günlük yazma hizmeti planlanmıyor. Cihazdaki veriler planlama, günlük ve arama özelliklerini sağlamak için kullanılır."
+      ],
+      [
+        "Mikrofon ve konuşma tanıma",
+        "Sesle giriş isteğe bağlıdır. Kullanırken mikrofon ve konuşma tanıma izni istenir. Ses, düzenlenebilir metne dönüştürülür. Cihazına ve Apple hizmetinin desteğine göre ses Apple’a gönderilebilir ve internet gerekebilir. İlk kapsamda ayrı bir ses kaydı arşivi bulunmaz."
+      ],
+      [
+        "iCloud durumu",
+        "Mevcut sürümde iCloud senkronizasyonu sunulmuyor ve mevcut Pro özelliklerine dahil değil. İleride bulut senkronizasyonu etkinleştirilmeden önce bu bildirim güncellenecektir."
+      ],
+      [
+        "Satın almalar ve RevenueCat",
+        "Satın almaları Apple işler. Abonelik doğrulama ve erişim yönetimi için RevenueCat planlanıyor. SDK; uygulama kullanıcı kimliği, satın alma geçmişi, erişim ve işlem verileri ile teknik bilgileri işleyebilir. Geliştirici kartının tam bilgilerini almaz. Son SDK ayarları ve veri beyanları yayımdan önce doğrulanacaktır."
+      ],
+      [
+        "Bildirimler ve izinler",
+        "Yerel hatırlatmalar görev tarihlerini ve seçtiğin ayarları kullanır. Bildirimler iOS Ayarları’ndan kapatılabilir. Fotoğraf erişimi seçtiğin öğelerle çalışır. İsteğe bağlı izinleri reddetmek günlük verilerini geliştiriciye göndermeyi gerektirmez."
+      ],
+      [
+        "Saklama ve silme",
+        "Yerel içerik, sen silene veya uygulamanın depolaması kaldırılana kadar saklanır. Cihaz yedekleri ayrı saklama koşullarına sahip olabilir. Uygulamadan görev ve günlük içeriğini silebilir; Apple ayarlarından mikrofon, konuşma ve bildirim erişimini yönetebilirsin. Desteğe doğrudan gönderdiğin veriler için yukarıdaki adrese yazabilirsin."
+      ],
+      [
+        "Destek ve bu site",
+        "Desteğe e-posta gönderirsen geliştirici e-posta adresini ve mesajını alır. Yalnız gerekli bilgileri paylaş. Site GitHub Pages üzerinde barındırılır; GitHub kendi gizlilik bildirimine göre ağ/istek kayıtları işleyebilir. Seçtiğin dil tarayıcında yerel tutulur. Eklenmiş reklam veya analitik betiği yoktur."
+      ],
+      [
+        "Seçimlerin ve hakların",
+        "Desteğe doğrudan verdiğin kişisel bilgiler hakkında bilgi, düzeltme veya silme isteyebilirsin. Geçerli olduğu ölçüde erişim, kısıtlama, itiraz ve veri taşınabilirliği hakların olabilir; ilgili veri koruma makamına başvurabilirsin. Apple veya RevenueCat’teki veriler için ilgili sağlayıcıya başvurman gerekebilir."
+      ],
+      [
+        "Güncellemeler",
+        "Yayımlanan uygulamanın veri kullanımı değişirse bu metin güncellenir. Apple ve RevenueCat gizlilik bağlantıları aşağıdadır."
+      ],
+      [
+        "Gün kaydın",
+        "Görevlerin, tamamlanma geçmişin, yazılı veya konuşmadan metne çevrilen sözlerin ve seçtiğin günlük fotoğrafları ilgili tarihe bağlanır. Günlük ve Günlerim aynı gün kaydını kullanır. Gün özeti tamamlanan görevlerden oluşur; hikâye veya duygu uydurulmaz. Editorial dekoratif fotoğrafları ve yazı tipi tercihleri günlük fotoğraflarından ayrı saklanır. Bu site görevlerini, günlüğünü veya fotoğraflarını almaz. Ayrı ses arşivi tutulmaz."
+      ],
+      [
+        "Sağlayıcı ve iletişim",
+        "Süleyman Varol · SLYMN · smanvar4255@gmail.com"
+      ]
+    ],
+    "terms": [
+      [
+        "Durum ve sağlayıcı",
+        "Daily Planner, SLYMN’in iPhone için planlama ve kişisel günlük uygulamasıdır. Bu sayfa mevcut satış teklifini değil, planlanan ürün ve abonelik modelini açıklar. İletişim: smanvar4255@gmail.com."
+      ],
+      [
+        "Uygulamanın kullanımı",
+        "Uygulamayı hukuka uygun kullan ve eklediğin içerikte gerekli haklara sahip ol. Görevlerin, notların ve fotoğrafların senin içeriğin olarak kalır. Başkalarının haklarını ihlal etme. Daily Planner bir planlama yardımcısıdır; garantili bildirim veya acil durum hizmeti değildir."
+      ],
+      [
+        "FREE süresi",
+        "Temel FREE özellikleri ilk kullanımdan itibaren 72 saat kullanılabilir. Pro bu süreye dahil değildir. FREE bitince ücretli kullanıma devam etmek için açıkça satın alma gerekir. FREE kendiliğinden abonelik başlatmaz."
+      ],
+      [
+        "Pro abonelikleri",
+        "Planlanan ABD fiyatı aylık $4.99 veya yıllık $39.99’dur. Gerçek yerel fiyat, süre ve vergiler Apple’ın satın alma onayında görünür. Haftalık, lifetime ve Pro ücretsiz denemesi planlanmıyor. Ücretli abonelikler Apple hesabından iptal edilmediği sürece otomatik yenilenir."
+      ],
+      [
+        "Ödeme, iptal ve geri yükleme",
+        "Ödemeyi Apple yönetir. Apple hesabının abonelik ayarlarından yönetebilir veya iptal edebilirsin. İptal genellikle sonraki yenilemeyi durdurur; ödenmiş dönemin erişimi Apple koşullarına tabidir. Uygulamayı silmek aboneliği iptal etmez. Uygun satın almaları uygulamada geri yükleyebilirsin. İade Apple’dan istenebilir; uygunluk Apple ve geçerli hukuk tarafından belirlenir."
+      ],
+      [
+        "İçerik ve kullanılabilirlik",
+        "Önemli kayıtlarını ve yedeklerini koru. Konuşma tanıma, bildirimler ve satın almalar cihaz izinlerine ve dış hizmetlerin kullanılabilirliğine bağlıdır. iOS ayarları hatırlatmaları geciktirebilir veya engelleyebilir; uygulamayı acil durum alarmı olarak kullanma."
+      ],
+      [
+        "Değişiklikler ve tüketici hakları",
+        "Özellikler ve koşullar güncellemelerle değişebilir; önemli değişiklikler gerektiği şekilde duyurulur. Bu metin zorunlu tüketici haklarını veya hukuken kaldırılamayan sorumlulukları kaldırmaz. Geçerli bir özel sözleşme sunulmadıkça Apple’ın standart uygulama lisansı geçerlidir."
+      ],
+      [
+        "Sorular",
+        "Destek veya koşullar hakkında smanvar4255@gmail.com adresine yazabilirsin. Veri kullanımı ayrıca Gizlilik Politikası’nda açıklanır."
+      ],
+      [
+        "Günlük ve kişiselleştirme",
+        "Günlüğün gerçekten tamamlanan görevleri kendi sözlerin ve seçtiğin fotoğraflarla birleştirir. Eklediğin içerikten sen sorumlusun. Pro, desteklenen Editorial dekoratif fotoğraflarını değiştirmeyi içerir. Pro sona erdiğinde varsayılanlar gösterilir; kaydedilmiş kişisel fotoğraflar yeniden erişim için korunur."
+      ],
+      [
+        "Sağlayıcı ve iletişim",
+        "Süleyman Varol · SLYMN · smanvar4255@gmail.com"
+      ]
+    ],
+    "support": [
+      [
+        "İletişim",
+        "Soru, geri bildirim veya sorun için smanvar4255@gmail.com adresine yaz."
+      ],
+      [
+        "Neler göndermeli?",
+        "Uygulama sürüm/build bilgisi, iOS sürümü, cihaz modeli ve soruna götüren adımları ekle. Ekran görüntüsünü yalnız özel günlük içeriği, kimlik veya ödeme bilgisi içermiyorsa gönder."
+      ],
+      [
+        "Hatırlatmalar",
+        "iOS bildirim iznini ve Odak ayarlarını kontrol et. Görev tarihini ve hatırlatma saatini incele. Görev değişince hatırlatması da güncellenmelidir."
+      ],
+      [
+        "Sesle giriş",
+        "Mikrofon ve konuşma tanıma izinlerini kontrol et. Cihaz dili, ağ ve Apple hizmetlerinin durumu yazıya çeviriyi etkileyebilir. Yazarak görev eklemeyi kullanabilirsin."
+      ],
+      [
+        "Satın almalar",
+        "Yayımlandıktan sonra Pro’yu aldığın Apple hesabıyla uygulamadaki Satın Almaları Geri Yükle seçeneğini kullan. Aboneliği Apple hesabından yönet veya iptal et. Fatura ve iade taleplerini Apple işler."
+      ],
+      [
+        "Kişisel içerik",
+        "Önemli yerel kayıtların varsa ilk sorun giderme adımı olarak uygulamayı silme. Mevcut sürümde iCloud senkronizasyonu sunulmuyor. Veriyi kaldırabilecek bir işlemden önce desteğe sor."
+      ],
+      [
+        "Gizlilik talepleri",
+        "Desteğe doğrudan gönderdiğin bilgiler için yukarıdaki destek bağlantısına başvur. Sıradan destek talebinde günlük arşivini veya hassas kimlik belgelerini e-posta ile gönderme."
+      ],
+      [
+        "Günlerim ve Günlük",
+        "Günlerim tarihlere göre görev geçmişini gösterir. Günlük ise kendi sözlerin, fotoğrafların ve tamamlanan işlerinin özetiyle hazırlanmış günlük sayfanı açar. Sayfalar arasında kaydırarak veya oklarla gez; tarih düğmesiyle istediğin güne git. O sayfaya yazarak veya konuşarak anlatım ekleyebilir ve düzenleyebilirsin. Tamamlanan işleri yeniden yazman gerekmez."
+      ],
+      [
+        "Görünüm",
+        "Daha Fazla → Görünüm → Yazı tipi bölümünde El yazısı, Sistem veya Yuvarlak seç. Storybook Bugün ekranında tilki sahnesi görünür kalırken görev listesi kayar. Pro ile Editorial dekoratif fotoğrafına dokunup değiştirebilir, kadrajını ayarlayabilir veya varsayılanına dönebilirsin. Bunlar günlük fotoğraflarından ayrıdır. Pro biterse seçtiğin fotoğraflar korunur, varsayılanlar gösterilir."
+      ],
+      [
+        "Sağlayıcı ve iletişim",
+        "Süleyman Varol · SLYMN · smanvar4255@gmail.com"
+      ]
+    ],
+    "notes": [
+      "App Store bağlantısı yayımdan sonra eklenecek. Satın alma henüz etkin değil.",
+      "Mevcut uygulama Türkçe ve İngilizce. Bu site sekiz dili destekler; diğer uygulama dilleri daha sonra eklenecek.",
+      "Verilen tasarımlardan hazırlanmış yerelleştirilmiş web önizlemeleridir; bu dillerde yayımlanmış uygulama ekran görüntüleri değildir. Türkçe orijinaller aşağıdadır.",
+      "Sessiz görsel tanıtım. Altyazılar seçtiğin dili izler. Hazır olduğunda oynat; kendiliğinden başlamaz.",
+      "Planlanan ABD fiyatları: aylık $4.99 / yıllık $39.99. Son yerel fiyatı, vergileri ve süreyi Apple satın alma ekranında gösterir. Haftalık veya ömür boyu plan ve Pro ücretsiz denemesi yoktur.",
+      "Uygulamayı kendi hızında tanı. Sekiz adım, kendi dilinde okunabilir metinler.",
+      "Özel destek için uygulama sürümünü, iOS sürümünü, cihaz modelini ve soruna götüren adımları e-postayla gönder. Özel günlük içeriği ve ödeme bilgisi gönderme.",
+      "İki temada da okunabilir yazı seçenekleri.",
+      "Pro: tarihli görev geçmişi, günlük sayfaları, kendi sözlerin ve fotoğrafların, gelişmiş arama, widget ve desteklenen Editorial fotoğraf kişiselleştirmesi.",
+      "FREE: ilk 72 saat temel planlama. Kendiliğinden ücret alınmaz."
+    ],
+    "labels": {
+      "nav": [
+        "Rehber",
+        "Destek",
+        "Dil"
+      ],
+      "privacy": "Gizlilik Politikası",
+      "terms": "Kullanım Koşulları",
+      "updated": "Güncelleme: 2 Ekim 2026",
+      "faq": "Sık sorulan sorular",
+      "contact": "Özel destek",
+      "contactLead": "Uygulama ve iOS sürümünüzü ve sorunu oluşturan adımları e-postayla gönderin. Hassas belge veya ödeme bilgisi göndermeyin.",
+      "feedback": "Sonraki sürümü birlikte şekillendirelim.",
+      "noReviews": "Henüz burada yayınlanmış kullanıcı yorumu yok. Gerçek geri bildirimleri GitHub’dan okuyabilir veya paylaşabilirsiniz.",
+      "readFeedback": "Kullanıcı geri bildirimlerini oku",
+      "kind": "Ne paylaşmak istersiniz?",
+      "kinds": [
+        "Yorum",
+        "Soru",
+        "Özellik isteği",
+        "Hata bildirimi"
+      ],
+      "subject": "Konu",
+      "message": "Mesajınız",
+      "send": "GitHub’da devam et",
+      "feedbackNote": "Bu düğme gönderim yapmaz, bir taslak açar. GitHub’da kontrol edip siz yayınlarsınız. GitHub hesabı gerekir ve yayınlanan geri bildirim herkese açıktır. Özel belge veya kimlik bilgisi eklemeyin.",
+      "support": "Destek"
+    }
+  },
+  "de": {
+    "hero": "Deine Tage. Deine Geschichte.",
+    "lead": "Plane deinen Alltag. Aus erledigten Aufgaben, deinen Worten und Fotos wächst dein persönliches Tagebuch.",
+    "features": [
+      [
+        "Heute & Später",
+        "Aufgaben tippen oder diktieren, Datum und Erinnerungen festlegen. Fällige Aufgaben erscheinen unter Heute."
+      ],
+      [
+        "Meine Tage: Aufgabenverlauf",
+        "Geplante, erledigte und offene Aufgaben nach Datum ansehen und die passende Tagebuchseite öffnen."
+      ],
+      [
+        "Dein Tagebuch zum Blättern",
+        "Erledigte Aufgaben, eigene Worte und ausgewählte Fotos bilden einen gemeinsamen Eintrag pro Tag. Blättere zurück oder wähle ein Datum. Erledigtes musst du nicht noch einmal aufschreiben."
+      ],
+      [
+        "Zwei Ansichten für deinen Alltag",
+        "In Storybook bleibt die Fuchsszene sichtbar, während du durch die Aufgaben scrollst. Editorial ist schlicht; mit Pro kannst du unterstützte Dekofotos austauschen."
+      ],
+      [
+        "Gut lesbar, wie du es magst",
+        "Wähle Handschrift, System oder Abgerundet unter Darstellung. Die Auswahl bleibt gespeichert; unterstützte Texte folgen der Schriftgröße deines iPhones."
+      ]
+    ],
+    "steps": [
+      [
+        "Zwei Welten. Eine App.",
+        "Wähle das warme Storybook oder das ruhige Editorial."
+      ],
+      [
+        "Plane deinen Tag",
+        "Behalte deine Aufgaben und den Fuchs im Blick."
+      ],
+      [
+        "Tippen oder sprechen",
+        "Prüfe Datum, Uhrzeit und Erinnerung deiner diktierten Aufgabe, bevor du sie hinzufügst."
+      ],
+      [
+        "Alles zu seiner Zeit",
+        "Morgen, demnächst oder irgendwann: Aufgaben bleiben geordnet, bis sie fällig sind."
+      ],
+      [
+        "Blick zurück",
+        "Meine Tage zeigt deinen Aufgabenverlauf nach Datum."
+      ],
+      [
+        "Dein Tagebuch wartet auf dich",
+        "Deine Worte, Fotos und erledigten Aufgaben werden zur persönlichen Tagesseite. Blättere durch vergangene Tage."
+      ],
+      [
+        "Editorial: angenehm schlicht",
+        "Dieselben Einträge, ein ruhigeres Design. Mit Pro lassen sich unterstützte Dekofotos personalisieren."
+      ],
+      [
+        "Deine Welt, deine Wahl",
+        "Design und Schrift lassen sich später ändern. Deine Einträge bleiben erhalten."
+      ]
+    ],
+    "ui": [
+      "Heute",
+      "Später",
+      "Meine Tage",
+      "Tagebuch",
+      "Mehr",
+      "Guten Abend!",
+      "Für heute ist alles erledigt. Gut gemacht!",
+      "erledigt",
+      "Frühstück",
+      "Sprachkurs",
+      "Spazieren gehen",
+      "Ein Buch lesen",
+      "Morgen",
+      "Demnächst",
+      "Irgendwann",
+      "Neue Aufgabe",
+      "Morgen um 10 beim Zahnarzt anrufen",
+      "Schnell hinzufügen",
+      "Es war ein schöner Tag. Nach meinem Kurs bin ich am Fluss spazieren gegangen.",
+      "Heute erledigt",
+      "Foto hinzufügen",
+      "Handschrift",
+      "System",
+      "Abgerundet",
+      "Schrift",
+      "Datum",
+      "Erinnerung",
+      "Wiederholen",
+      "Wähle deine Welt",
+      "Los geht’s",
+      "Weiter",
+      "Zurück",
+      "App-Ansichten",
+      "Einführung ansehen",
+      "Untertitel",
+      "Originale App-Screenshots auf Türkisch"
+    ],
+    "faq": [
+      [
+        "Schreibt KI mein Tagebuch?",
+        "Nein. Die Zusammenfassung verwendet erledigte Aufgaben; der Text stammt aus deinen eigenen getippten oder diktierten Worten. Es werden keine Ereignisse oder Gefühle erfunden und keine Audiodateien archiviert."
+      ],
+      [
+        "Was unterscheidet Tagebuch und Meine Tage?",
+        "Meine Tage ist der Aufgabenverlauf. Im Tagebuch liest du deine Worte, Fotos und erledigten Aufgaben als Tagesseite. Beide nutzen denselben Tageseintrag."
+      ],
+      [
+        "Wird FREE automatisch kostenpflichtig?",
+        "Nein. FREE umfasst 72 Stunden Basisfunktionen, nicht Pro. Ein Abo beginnt erst nach deiner ausdrücklichen Kaufbestätigung."
+      ],
+      [
+        "Kann ich Fotos und Schrift ändern?",
+        "Die Schrift wählst du unter Darstellung. Pro erlaubt den Austausch unterstützter Editorial-Dekofotos mit Bildausschnitt und Rückkehr zum Standard. Tagebuchfotos bleiben getrennt. Eigene Dekofotos werden nach Ablauf von Pro aufbewahrt."
+      ],
+      [
+        "Wo sind meine Daten?",
+        "Einträge und ausgewählte Fotos bleiben lokal auf dem Gerät. Diese Website erhält weder Aufgaben noch Tagebuchinhalte. Die aktuelle Version bietet keine iCloud-Synchronisierung."
+      ],
+      [
+        "Kann ich die App schon laden?",
+        "Der App-Store-Link folgt nach Veröffentlichung. Käufe sind noch nicht freigeschaltet."
+      ]
+    ],
+    "privacy": [
+      [
+        "Geltungsbereich und Anbieter",
+        "Daily Planner von Süleyman Varol (SLYMN) verbindet Planung und Tagebuch. Diese Hinweise gelten für den aktuellen Build; App-Store-Veröffentlichung und Abo-Einrichtung stehen noch aus. Kontakt: die unten verlinkte E-Mail-Adresse."
+      ],
+      [
+        "Lokale Inhalte",
+        "Aufgaben, Verlauf, Tagebuchtexte, ausgewählte Fotos und Einstellungen werden lokal gespeichert. Jeder Tag hat einen gemeinsamen Eintrag. Die Zusammenfassung verwendet erledigte Aufgaben; sie erfindet keine Geschichten. Dekofotos sind von Tagebuchfotos getrennt. Kein App-Konto, Werbe-SDK oder KI-Schreibdienst ist vorgesehen; die Website erhält deine Inhalte nicht. iCloud-Synchronisierung ist derzeit nicht verfügbar."
+      ],
+      [
+        "Sprache und Berechtigungen",
+        "Spracheingabe ist freiwillig und benötigt Mikrofon- und Spracherkennungsfreigabe. Sprache wird zu bearbeitbarem Text; ein Audioarchiv wird nicht gespeichert. Je nach Gerät und Apple-Unterstützung kann Audio zur Erkennung an Apple übermittelt werden und Internet erforderlich sein. Erinnerungen verwenden Aufgabendaten; Fotos werden aus deiner Auswahl übernommen. Freigaben verwaltest du in iOS."
+      ],
+      [
+        "Käufe",
+        "Apple wickelt Käufe ab. RevenueCat ist für Abo-Prüfung und Zugriffsverwaltung vorgesehen, aber noch nicht eingerichtet. Bei Aktivierung können Nutzerkennungen, Kaufverlauf, Transaktionen, Berechtigungen und technische Metadaten verarbeitet werden. Wir erhalten keine vollständigen Karteninformationen. Die endgültigen Angaben werden vor Veröffentlichung mit der Konfiguration abgeglichen."
+      ],
+      [
+        "Aufbewahrung und Löschung",
+        "Lokale Inhalte bleiben gespeichert, bis du sie entfernst oder der App-Speicher gelöscht wird. Geräte-Backups können Kopien enthalten und werden getrennt verwaltet. Eine Neuinstallation ist kein sicherer erster Schritt zur Fehlerbehebung. Wir können lokale Einträge nicht aus der Ferne einsehen oder löschen."
+      ],
+      [
+        "Website, Support und Rechte",
+        "GitHub Pages kann Hosting- und Netzwerkprotokolle verarbeiten. Unsere Website speichert die Sprachwahl lokal und verwendet keine zusätzlichen Werbe- oder Analyse-Skripte. E-Mail-Support über Gmail erhält deine Adresse, Nachricht und gewählte Anhänge; sie werden für die Bearbeitung und erforderliche Aufbewahrung genutzt. Öffentliches GitHub-Feedback wird erst durch deine eigene Veröffentlichung öffentlich. Je nach geltendem Recht kannst du Auskunft, Berichtigung, Löschung, Einschränkung, Übertragbarkeit oder Widerspruch verlangen und dich an die Datenschutzaufsicht wenden. Anfragen zu Apple- oder RevenueCat-Daten richtest du gegebenenfalls an diese Anbieter."
+      ],
+      [
+        "Änderungen",
+        "Bei Änderungen der Datenverarbeitung aktualisieren wir diese Hinweise. Anbieterinformationen sind unten verlinkt."
+      ]
+    ],
+    "terms": [
+      [
+        "Nutzung und Inhalte",
+        "Verwende Daily Planner rechtmäßig und nur mit Inhalten, zu deren Nutzung du berechtigt bist. Deine Aufgaben, Texte und Fotos bleiben deine Inhalte. Prüfe diktierte Texte. Die App ist eine Planungshilfe, kein Notfall- oder garantierter Erinnerungsdienst."
+      ],
+      [
+        "FREE und Pro",
+        "FREE bietet die Basisfunktionen 72 Stunden ab der ersten Nutzung, ohne Pro und ohne automatischen Abo-Abschluss. Für die anschließende kostenpflichtige Nutzung ist eine ausdrückliche Kaufbestätigung erforderlich."
+      ],
+      [
+        "Preise und Abos",
+        "Geplant sind US-Preise von $4.99 monatlich oder $39.99 jährlich, kein Wochen- oder Lebenszeitabo und keine kostenlose Pro-Testphase. Maßgeblich sind Apples angezeigter lokaler Preis, Steuern und Laufzeit. Käufe sind derzeit noch nicht verfügbar und erfolgen später in der App, nicht auf dieser Website."
+      ],
+      [
+        "Verlängerung, Kündigung und Erstattung",
+        "Bezahlte Abos verlängern sich automatisch bis zur Kündigung in den Apple-Account-Einstellungen. App-Löschung kündigt kein Abo. Berechtigte Käufe lassen sich in der App wiederherstellen. Apple bearbeitet Abrechnung und Erstattungsanträge nach seinen Bedingungen und geltendem Recht."
+      ],
+      [
+        "Tagebuch und Gestaltung",
+        "Das Tagebuch verwendet echte erledigte Aufgaben und deine Worte und Fotos. Pro erlaubt unterstützte Editorial-Dekofotos. Nach Ablauf erscheinen Standardbilder; deine gespeicherten Fotos bleiben für eine erneute Freischaltung erhalten. Sichere wichtige Inhalte selbst. Externe Dienste und iOS-Einstellungen können Funktionen beeinträchtigen."
+      ],
+      [
+        "Lizenz und Rechte",
+        "Apples Standard-EULA gilt, sofern keine gültige individuelle Lizenz vereinbart wird. Zwingende Verbraucherrechte bleiben unberührt. Änderungen werden mitgeteilt, soweit erforderlich. Anbieter: Süleyman Varol, SLYMN; Kontakt unten."
+      ]
+    ],
+    "support": [
+      [
+        "Tagebuch lesen",
+        "Öffne Tagebuch für die neueste Seite mit Inhalt. Blättere mit Wischen oder den Pfeilen; über das Datum erreichst du andere Tage. Eigene Worte per Text oder Diktat ergänzen, Fotos demselben Tag zuordnen."
+      ],
+      [
+        "Erinnerungen und Diktat",
+        "Prüfe Mitteilungs- und Fokus-Einstellungen sowie Datum und Uhrzeit. Für Diktat Mikrofon und Spracherkennung freigeben. Sprache, Netzwerk und Apple-Dienste können die Erkennung beeinflussen; Tippen bleibt möglich."
+      ],
+      [
+        "Schrift und Fotos",
+        "Unter Mehr → Darstellung die Schrift wählen. Pro-Nutzer können unterstützte Editorial-Fotos antippen, austauschen und den Ausschnitt einstellen. Tagebuchfotos bleiben unabhängig."
+      ],
+      [
+        "Käufe und Daten",
+        "Käufe und Wiederherstellung werden nach Einrichtung verfügbar. Apple verwaltet Kündigung und Erstattungen. Lösche die App bei wichtigen lokalen Einträgen nicht als ersten Schritt zur Fehlerbehebung."
+      ]
+    ],
+    "notes": [
+      "App-Store-Link nach Veröffentlichung. Käufe sind noch nicht aktiv.",
+      "Die aktuelle App ist auf Türkisch und Englisch verfügbar. Die Website bietet acht Sprachen; weitere App-Sprachen folgen später.",
+      "Lokalisierte Web-Vorschau anhand der bereitgestellten Designs, keine Screenshots einer in diesen Sprachen veröffentlichten App. Türkische Originale stehen unten.",
+      "Stumme visuelle Einführung mit Untertiteln in deiner Sprache. Starte sie selbst; kein Autoplay.",
+      "Geplante US-Preise: $4.99 pro Monat / $39.99 pro Jahr. Apple zeigt den endgültigen lokalen Preis, Steuern und Laufzeit. Kein Wochen- oder Lebenszeitabo, keine kostenlose Pro-Testphase.",
+      "Acht Schritte in deinem Tempo, mit gut lesbarem Text.",
+      "Für persönlichen Support: App-Version, iOS-Version, Gerät und Schritte zum Fehler per E-Mail senden. Keine privaten Tagebuch- oder Zahlungsdaten.",
+      "Gut lesbare Schriften in beiden Designs.",
+      "Pro: Aufgabenverlauf, Tagebuchseiten, eigene Worte und Fotos, erweiterte Suche, Widget und unterstützte Editorial-Fotos.",
+      "FREE: 72 Stunden Basisplanung ohne automatische Zahlung."
+    ],
+    "labels": {
+      "nav": [
+        "Anleitung",
+        "Support",
+        "Sprache"
+      ],
+      "privacy": "Datenschutzerklärung",
+      "terms": "Nutzungsbedingungen",
+      "updated": "Aktualisiert am 2. Oktober 2026",
+      "faq": "Häufige Fragen",
+      "contact": "Privater Support",
+      "contactLead": "Senden Sie App-Version, iOS-Version und Schritte zum Nachstellen per E-Mail. Keine sensiblen Dokumente oder Zahlungsdaten senden.",
+      "feedback": "Gestalten Sie die nächste Version mit.",
+      "noReviews": "Hier sind noch keine Nutzerbewertungen veröffentlicht. Lesen oder teilen Sie echtes Feedback auf GitHub.",
+      "readFeedback": "Feedback lesen",
+      "kind": "Was möchten Sie teilen?",
+      "kinds": [
+        "Bewertung",
+        "Frage",
+        "Funktionswunsch",
+        "Fehlermeldung"
+      ],
+      "subject": "Betreff",
+      "message": "Ihre Nachricht",
+      "send": "Auf GitHub fortfahren",
+      "feedbackNote": "Es wird ein Entwurf geöffnet, nichts abgesendet. Sie prüfen und veröffentlichen ihn auf GitHub. Ein GitHub-Konto ist erforderlich; veröffentlichte Beiträge sind öffentlich. Keine privaten Dokumente oder Ausweisdaten angeben.",
+      "support": "Support"
+    }
+  },
+  "fr": {
+    "hero": "Vos journées ont une histoire.",
+    "lead": "Organisez votre quotidien. Vos tâches accomplies, vos mots et vos photos deviennent un journal personnel.",
+    "features": [
+      [
+        "Aujourd’hui et Plus tard",
+        "Ajoutez une tâche au clavier ou à la voix, avec date, rappel et répétition. À échéance, elle rejoint Aujourd’hui."
+      ],
+      [
+        "Mes journées : l’historique",
+        "Retrouvez les tâches prévues, terminées ou en attente par date et ouvrez la page du journal correspondante."
+      ],
+      [
+        "Un journal à feuilleter",
+        "Un seul compte rendu par jour rassemble les tâches terminées, vos mots et vos photos. Parcourez les pages ou choisissez une date : inutile de réécrire ce que vous avez fait."
+      ],
+      [
+        "Deux ambiances",
+        "Dans Storybook, le renard reste visible pendant le défilement des tâches. Editorial privilégie la sobriété ; Pro permet de remplacer les photos décoratives prises en charge."
+      ],
+      [
+        "Une lecture à votre goût",
+        "Choisissez Manuscrite, Système ou Arrondie dans Apparence. Votre choix est conservé ; les textes compatibles suivent la taille de police de l’iPhone."
+      ]
+    ],
+    "steps": [
+      [
+        "Deux univers. Une seule app.",
+        "Choisissez la chaleur de Storybook ou le calme d’Editorial."
+      ],
+      [
+        "Organisez votre journée",
+        "Consultez vos tâches et cochez-les sans perdre le renard de vue."
+      ],
+      [
+        "Écrivez ou dictez",
+        "Vérifiez la date, l’heure et le rappel avant d’ajouter votre tâche dictée."
+      ],
+      [
+        "Préparez la suite",
+        "Demain, bientôt ou un jour : chaque tâche attend à sa place."
+      ],
+      [
+        "Revenez sur vos journées",
+        "Mes journées présente l’historique des tâches par date."
+      ],
+      [
+        "Votre journal vous attend",
+        "Vos mots, vos photos et vos tâches terminées composent une page personnelle. Feuilletez vos souvenirs."
+      ],
+      [
+        "La simplicité d’Editorial",
+        "Les mêmes données, dans une ambiance plus sobre. Personnalisez les photos décoratives compatibles avec Pro."
+      ],
+      [
+        "Choisissez votre univers",
+        "Modifiez le thème ou la police plus tard. Vos données restent conservées."
+      ]
+    ],
+    "ui": [
+      "Aujourd’hui",
+      "Plus tard",
+      "Mes journées",
+      "Journal",
+      "Plus",
+      "Bonsoir !",
+      "Tout est terminé pour aujourd’hui. Bravo !",
+      "terminées",
+      "Petit-déjeuner",
+      "Cours de langue",
+      "Se promener",
+      "Lire un livre",
+      "Demain",
+      "Bientôt",
+      "Un jour",
+      "Nouvelle tâche",
+      "Demain à 10 h, appeler le dentiste",
+      "Ajout rapide",
+      "C’était une belle journée. Après mon cours, je me suis promené au bord de la rivière.",
+      "Ce que j’ai fait aujourd’hui",
+      "Ajouter une photo",
+      "Manuscrite",
+      "Système",
+      "Arrondie",
+      "Police",
+      "Date",
+      "Rappel",
+      "Répéter",
+      "Choisissez votre univers",
+      "Commencer",
+      "Continuer",
+      "Retour",
+      "Écrans de l’app",
+      "Voir la présentation",
+      "Sous-titres",
+      "Captures originales de l’app en turc"
+    ],
+    "faq": [
+      [
+        "L’IA écrit-elle mon journal ?",
+        "Non. Le résumé utilise les tâches terminées. Le récit vient de vos mots tapés ou dictés : aucun événement ni sentiment n’est inventé et aucun fichier audio n’est archivé."
+      ],
+      [
+        "Journal et Mes journées, quelle différence ?",
+        "Mes journées présente l’historique des tâches. Journal rassemble votre récit, vos photos et les tâches accomplies. Les deux utilisent le même enregistrement daté."
+      ],
+      [
+        "FREE devient-il payant automatiquement ?",
+        "Non. FREE offre 72 heures de fonctions de base, sans Pro. Un abonnement commence uniquement après votre confirmation d’achat."
+      ],
+      [
+        "Puis-je changer les photos et la police ?",
+        "Choisissez la police dans Apparence. Pro permet de remplacer les photos décoratives Editorial compatibles, de cadrer l’image et de revenir à l’original. Elles sont distinctes des photos du journal et restent conservées après la fin de Pro."
+      ],
+      [
+        "Où sont mes données ?",
+        "Les enregistrements et photos sélectionnées restent sur l’appareil. Ce site ne reçoit ni tâches ni journal. La version actuelle n’offre pas de synchronisation iCloud."
+      ],
+      [
+        "Puis-je télécharger l’app ?",
+        "Le lien App Store sera ajouté après publication. Les achats ne sont pas encore disponibles."
+      ]
+    ],
+    "privacy": [
+      [
+        "Champ d’application et éditeur",
+        "Daily Planner est une app de planification et de journal personnel de Süleyman Varol, sous SLYMN. Cette politique couvre la version actuelle. La publication sur l’App Store et la configuration des abonnements restent à finaliser. Contact : l’adresse ci-dessous."
+      ],
+      [
+        "Contenus locaux",
+        "Les tâches, l’historique, les textes du journal, les photos choisies et les préférences sont stockés localement, avec un enregistrement commun par date. Le résumé utilise les tâches terminées sans inventer de récit. Les photos décoratives sont séparées de celles du journal. Aucun compte d’app, SDK publicitaire ou service de rédaction par IA n’est prévu. Le site ne reçoit pas ces contenus. La synchronisation iCloud n’est pas disponible actuellement."
+      ],
+      [
+        "Voix et autorisations",
+        "La saisie vocale facultative demande l’accès au microphone et à la reconnaissance vocale. Elle produit un texte modifiable, sans archive audio. Selon l’appareil et les services Apple, l’audio peut être envoyé à Apple et nécessiter Internet. Les rappels utilisent les dates et réglages des tâches ; les photos proviennent de votre sélection. Gérez les autorisations dans iOS."
+      ],
+      [
+        "Achats",
+        "Apple gère les achats. RevenueCat est prévu pour vérifier les abonnements et gérer les droits d’accès, mais n’est pas encore configuré. Une fois activé, il peut traiter identifiants, historique d’achats, transactions, droits et métadonnées techniques. Nous ne recevons pas les coordonnées complètes de votre carte. La configuration et les déclarations finales seront vérifiées avant publication."
+      ],
+      [
+        "Conservation et suppression",
+        "Les contenus locaux restent jusqu’à leur suppression ou au retrait du stockage de l’app. Les sauvegardes de l’appareil peuvent contenir des copies et se gèrent séparément. Ne désinstallez pas l’app en premier recours si elle contient des données importantes. Nous ne pouvons pas consulter ou effacer vos données locales à distance."
+      ],
+      [
+        "Site, assistance et droits",
+        "GitHub Pages peut traiter des journaux de requêtes et de réseau. Notre site conserve localement votre choix de langue, sans script publicitaire ou analytique ajouté. L’assistance par Gmail reçoit votre adresse, votre message et les pièces jointes choisies, conservés pour le suivi et les obligations applicables. Un avis GitHub devient public seulement si vous le publiez. Selon le droit applicable, vous pouvez demander accès, rectification, suppression, limitation, portabilité ou opposition, et saisir une autorité de protection des données. Les demandes concernant Apple ou RevenueCat peuvent devoir leur être adressées."
+      ],
+      [
+        "Mises à jour",
+        "Cette politique sera adaptée si le traitement des données change. Les politiques des prestataires sont liées ci-dessous."
+      ]
+    ],
+    "terms": [
+      [
+        "Utilisation et contenus",
+        "Utilisez l’app légalement et avec les droits nécessaires sur vos contenus. Vos tâches, textes et photos restent les vôtres. Vérifiez les transcriptions. Daily Planner est une aide à l’organisation, pas un service d’urgence ni une garantie de rappel."
+      ],
+      [
+        "FREE et Pro",
+        "FREE couvre les fonctions de base pendant 72 heures dès la première utilisation, sans Pro ni abonnement automatique. Tout achat ultérieur requiert votre confirmation explicite."
+      ],
+      [
+        "Tarifs et abonnements",
+        "Tarifs américains prévus : $4.99 par mois ou $39.99 par an, sans formule hebdomadaire ou à vie ni essai gratuit Pro. Le tarif local, les taxes et la durée affichés par Apple font foi. Les achats ne sont pas actifs ; ils se feront dans l’app, jamais sur ce site."
+      ],
+      [
+        "Renouvellement et annulation",
+        "Les abonnements payants se renouvellent automatiquement jusqu’à leur résiliation dans les réglages du compte Apple. Désinstaller ne résilie pas l’abonnement. Restaurez les achats admissibles dans l’app. Apple traite la facturation et les demandes de remboursement selon ses conditions et le droit applicable."
+      ],
+      [
+        "Journal et personnalisation",
+        "Le journal associe vos tâches réellement terminées, vos mots et vos photos. Pro permet de remplacer les photos décoratives Editorial compatibles. À la fin de Pro, les images par défaut reviennent ; vos photos sont conservées pour un renouvellement. Sauvegardez vos contenus importants. Les services externes et réglages iOS peuvent limiter certaines fonctions."
+      ],
+      [
+        "Licence et droits",
+        "Le contrat de licence standard d’Apple s’applique sauf contrat personnalisé valide. Les droits impératifs des consommateurs restent protégés. Les changements sont annoncés lorsque requis. Éditeur : Süleyman Varol, SLYMN ; contact ci-dessous."
+      ]
+    ],
+    "support": [
+      [
+        "Consulter le journal",
+        "Journal ouvre la dernière page contenant des éléments. Faites glisser ou utilisez les flèches ; le bouton de date permet de choisir un jour. Ajoutez vos mots au clavier ou à la voix et vos photos au même enregistrement."
+      ],
+      [
+        "Rappels et dictée",
+        "Vérifiez les notifications, Concentration, la date et l’heure. Autorisez microphone et reconnaissance vocale pour dicter. Langue, réseau et services Apple peuvent affecter la transcription ; le clavier reste disponible."
+      ],
+      [
+        "Police et photos",
+        "Choisissez la police dans Plus → Apparence. Avec Pro, touchez une photo décorative Editorial compatible pour la remplacer et régler son cadrage. Les photos du journal restent indépendantes."
+      ],
+      [
+        "Achats et données",
+        "Achats et restauration seront disponibles après configuration. Apple gère annulations et remboursements. Ne supprimez pas l’app en premier recours si vous avez des données locales importantes."
+      ]
+    ],
+    "notes": [
+      "Lien App Store après publication. Achats non disponibles pour le moment.",
+      "L’app actuelle est en turc et en anglais. Le site propose huit langues ; les autres langues de l’app viendront ensuite.",
+      "Aperçus web localisés d’après les visuels fournis, et non captures d’une app publiée dans ces langues. Les originaux turcs figurent ci-dessous.",
+      "Présentation visuelle silencieuse, sous-titrée dans votre langue. Lancez-la quand vous le souhaitez ; aucune lecture automatique.",
+      "Tarifs américains prévus : $4.99/mois ou $39.99/an. Apple affiche le prix local définitif, les taxes et la durée. Pas de formule hebdomadaire, à vie ou d’essai gratuit Pro.",
+      "Huit étapes à votre rythme, avec des textes lisibles dans votre langue.",
+      "Pour une aide privée, envoyez version de l’app, version iOS, modèle et étapes du problème par e-mail. Évitez les contenus du journal et données de paiement.",
+      "Des polices lisibles dans les deux thèmes.",
+      "Pro : historique, pages de journal, vos mots et photos, recherche avancée, widget et photos Editorial compatibles.",
+      "FREE : 72 heures de planification de base, sans prélèvement automatique."
+    ],
+    "labels": {
+      "nav": [
+        "Guide",
+        "Assistance",
+        "Langue"
+      ],
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions d’utilisation",
+      "updated": "Mise à jour le 2 octobre 2026",
+      "faq": "Questions fréquentes",
+      "contact": "Assistance privée",
+      "contactLead": "Envoyez par e-mail les versions de l’app et d’iOS et les étapes de reproduction. N’envoyez pas de documents sensibles ni de données de paiement.",
+      "feedback": "Contribuez à la prochaine version.",
+      "noReviews": "Aucun avis utilisateur n’est encore publié ici. Lisez ou partagez des retours réels sur GitHub.",
+      "readFeedback": "Lire les retours",
+      "kind": "Que souhaitez-vous partager ?",
+      "kinds": [
+        "Avis",
+        "Question",
+        "Demande de fonctionnalité",
+        "Signalement de bug"
+      ],
+      "subject": "Objet",
+      "message": "Votre message",
+      "send": "Continuer sur GitHub",
+      "feedbackNote": "Ce bouton ouvre un brouillon sans l’envoyer. Vous le vérifiez et le publiez sur GitHub. Un compte GitHub est nécessaire ; les contributions publiées sont publiques. N’incluez aucun document privé ni pièce d’identité.",
+      "support": "Assistance"
+    }
+  },
+  "es": {
+    "hero": "Tus días cuentan tu historia.",
+    "lead": "Organiza tu día. Las tareas completadas, tus palabras y tus fotos se convierten en tu diario personal.",
+    "features": [
+      [
+        "Hoy y Más adelante",
+        "Añade tareas por escrito o con la voz. Elige fecha, recordatorios y repeticiones; cuando llegue su fecha, aparecerán en Hoy."
+      ],
+      [
+        "Mis días: historial de tareas",
+        "Consulta por fecha lo previsto, lo completado y lo pendiente. Abre también la página del diario de ese día."
+      ],
+      [
+        "Un diario para pasar página",
+        "Un único registro diario reúne tareas completadas, tus palabras y fotos elegidas. Pasa las páginas o busca una fecha; no tienes que volver a escribir lo que ya hiciste."
+      ],
+      [
+        "Dos ambientes",
+        "En Storybook, el zorro sigue visible mientras desplazas la lista. Editorial ofrece un diseño tranquilo; Pro permite sustituir las fotos decorativas compatibles."
+      ],
+      [
+        "Lee a tu manera",
+        "Elige Manuscrita, Sistema o Redondeada en Apariencia. La elección se guarda; los textos compatibles siguen el tamaño de letra del iPhone."
+      ]
+    ],
+    "steps": [
+      [
+        "Dos mundos. Una app.",
+        "Elige la calidez de Storybook o la sencillez de Editorial."
+      ],
+      [
+        "Organiza tu día",
+        "Consulta y completa tus tareas sin perder al zorro de vista."
+      ],
+      [
+        "Escríbelo o dilo",
+        "Revisa fecha, hora y recordatorio antes de añadir la tarea dictada."
+      ],
+      [
+        "Todo a su tiempo",
+        "Mañana, próximamente o algún día: cada tarea espera en su sitio."
+      ],
+      [
+        "Vuelve a tus días",
+        "Mis días muestra el historial de tareas por fecha."
+      ],
+      [
+        "Tu diario está listo",
+        "Tus palabras, fotos y tareas completadas forman una página personal. Vuelve a los días anteriores cuando quieras."
+      ],
+      [
+        "Editorial, con calma",
+        "Los mismos datos, con un diseño más sencillo. Personaliza las fotos decorativas compatibles con Pro."
+      ],
+      [
+        "Elige tu mundo",
+        "Cambia tema o letra más tarde. Tus registros se conservan."
+      ]
+    ],
+    "ui": [
+      "Hoy",
+      "Más adelante",
+      "Mis días",
+      "Diario",
+      "Más",
+      "¡Buenas tardes!",
+      "Todo terminado por hoy. ¡Muy bien!",
+      "completadas",
+      "Desayuno",
+      "Clase de idiomas",
+      "Dar un paseo",
+      "Leer un libro",
+      "Mañana",
+      "Próximamente",
+      "Algún día",
+      "Nueva tarea",
+      "Mañana a las 10, llamar al dentista",
+      "Añadir rápido",
+      "Ha sido un día estupendo. Después de clase, he paseado junto al río.",
+      "Lo que hice hoy",
+      "Añadir foto",
+      "Manuscrita",
+      "Sistema",
+      "Redondeada",
+      "Letra",
+      "Fecha",
+      "Recordatorio",
+      "Repetir",
+      "Elige tu mundo",
+      "Empezar",
+      "Continuar",
+      "Atrás",
+      "Pantallas de la app",
+      "Ver presentación",
+      "Subtítulos",
+      "Capturas originales de la app en turco"
+    ],
+    "faq": [
+      [
+        "¿La IA escribe mi diario?",
+        "No. El resumen usa las tareas completadas; el relato contiene tus palabras escritas o dictadas. No inventa hechos ni emociones ni guarda un archivo de audio."
+      ],
+      [
+        "¿En qué se diferencian Diario y Mis días?",
+        "Mis días es el historial de tareas. Diario reúne tus palabras, fotos y tareas completadas. Ambos usan el mismo registro por fecha."
+      ],
+      [
+        "¿FREE se convierte en una suscripción?",
+        "No. Incluye funciones básicas durante 72 horas, sin Pro. Solo empieza una suscripción si eliges y confirmas la compra."
+      ],
+      [
+        "¿Puedo cambiar fotos y letra?",
+        "Elige la letra en Apariencia. Pro permite sustituir fotos decorativas Editorial compatibles, ajustar su encuadre y restaurar las originales. Son independientes del diario y se conservan cuando termina Pro."
+      ],
+      [
+        "¿Dónde están mis datos?",
+        "Los registros y fotos elegidas se guardan en el dispositivo. Este sitio no recibe tus tareas ni tu diario. La versión actual no incluye sincronización iCloud."
+      ],
+      [
+        "¿Ya puedo descargarla?",
+        "El enlace de App Store se añadirá tras la publicación. Las compras todavía no están activas."
+      ]
+    ],
+    "privacy": [
+      [
+        "Alcance y responsable",
+        "Daily Planner es una app de planificación y diario de Süleyman Varol, bajo SLYMN. Esta política cubre la versión actual; la publicación en App Store y la configuración de suscripciones están pendientes. Contacto: correo enlazado abajo."
+      ],
+      [
+        "Contenido local",
+        "Las tareas, historial, diario, fotos elegidas y preferencias se almacenan localmente con un registro común por fecha. El resumen usa tareas completadas sin inventar historias. Las fotos decorativas se guardan aparte de las del diario. No se prevén cuentas de app, SDK publicitarios ni redacción con IA. El sitio no recibe esos contenidos; iCloud no está disponible actualmente."
+      ],
+      [
+        "Voz y permisos",
+        "La entrada por voz es opcional y solicita permisos de micrófono y reconocimiento de voz. Genera texto editable sin archivo de audio. Según el dispositivo y los servicios de Apple, el audio puede enviarse a Apple y requerir Internet. Los recordatorios usan las fechas de tareas; las fotos proceden de tu selección. Gestiona permisos en iOS."
+      ],
+      [
+        "Compras",
+        "Apple tramita las compras. RevenueCat está previsto para validar suscripciones y gestionar accesos, pero aún no está configurado. Al activarlo, puede procesar identificadores, historial, transacciones, derechos y metadatos técnicos. No recibimos los datos completos de tu tarjeta. Se comprobarán la configuración y las declaraciones finales antes de publicar."
+      ],
+      [
+        "Conservación y eliminación",
+        "El contenido local permanece hasta que lo borres o se elimine el almacenamiento de la app. Las copias del dispositivo se gestionan aparte. No desinstales la app como primer paso si tienes registros importantes. No podemos acceder a ellos ni borrarlos de forma remota."
+      ],
+      [
+        "Sitio, asistencia y derechos",
+        "GitHub Pages puede procesar registros de solicitudes y red. Nuestro sitio guarda la preferencia de idioma localmente, sin scripts publicitarios o analíticos añadidos. Gmail recibe tu dirección, mensaje y adjuntos elegidos para atender la consulta y conservar lo necesario. Los comentarios en GitHub solo se publican si tú los envías. Según la ley aplicable, puedes solicitar acceso, rectificación, eliminación, limitación, portabilidad u oposición y acudir a una autoridad de protección de datos. Las solicitudes sobre Apple o RevenueCat pueden requerir contactar con ellos."
+      ],
+      [
+        "Cambios",
+        "Actualizaremos la política si cambia el tratamiento de datos. Las políticas de los proveedores están enlazadas abajo."
+      ]
+    ],
+    "terms": [
+      [
+        "Uso y contenido",
+        "Usa la app legalmente y con derechos sobre los contenidos que añades. Tus tareas, textos y fotos siguen siendo tuyos. Revisa las transcripciones. Es una ayuda para organizarte, no un servicio de emergencia ni un recordatorio garantizado."
+      ],
+      [
+        "FREE y Pro",
+        "FREE ofrece funciones básicas durante 72 horas desde el primer uso, sin Pro ni suscripción automática. La compra posterior requiere confirmación expresa."
+      ],
+      [
+        "Precios y suscripciones",
+        "Precios previstos para EE. UU.: $4.99 al mes o $39.99 al año, sin plan semanal, vitalicio ni prueba gratuita Pro. Rigen el precio local, impuestos y duración mostrados por Apple. Las compras todavía no están activas; se harán en la app, no en este sitio."
+      ],
+      [
+        "Renovación y cancelación",
+        "Las suscripciones de pago se renuevan hasta cancelarlas en los ajustes de la cuenta Apple. Desinstalar no cancela. Restaura compras válidas en la app. Apple gestiona facturación y reembolsos según sus condiciones y la legislación aplicable."
+      ],
+      [
+        "Diario y personalización",
+        "El diario combina tareas realmente completadas, tus palabras y fotos. Pro permite cambiar fotos decorativas Editorial compatibles. Al finalizar, vuelven las originales; tus fotos se conservan para una renovación. Protege tus registros importantes. Los servicios externos y ajustes iOS pueden afectar a las funciones."
+      ],
+      [
+        "Licencia y derechos",
+        "Se aplica el acuerdo de licencia estándar de Apple salvo acuerdo personalizado válido. Se mantienen los derechos imperativos del consumidor. Los cambios se comunicarán cuando corresponda. Responsable: Süleyman Varol, SLYMN; contacto abajo."
+      ]
+    ],
+    "support": [
+      [
+        "Abrir el diario",
+        "Abre la última página con contenido. Desliza o usa las flechas; el botón de fecha permite ir a otro día. Añade texto o dictado y fotos al mismo registro."
+      ],
+      [
+        "Recordatorios y voz",
+        "Revisa notificaciones, modos de concentración, fecha y hora. Activa permisos de micrófono y reconocimiento. Idioma, red y servicios Apple pueden afectar a la transcripción; siempre puedes escribir."
+      ],
+      [
+        "Letra y fotos",
+        "Elige la letra en Más → Apariencia. Con Pro, toca una foto decorativa Editorial compatible para cambiarla y ajustar el encuadre. Las fotos del diario son independientes."
+      ],
+      [
+        "Compras y registros",
+        "Las compras y restauración estarán disponibles tras la configuración. Apple gestiona cancelaciones y reembolsos. No borres la app como primer paso si guardas datos importantes."
+      ]
+    ],
+    "notes": [
+      "Enlace de App Store tras la publicación. Compras todavía no activas.",
+      "La app actual está en turco e inglés. El sitio ofrece ocho idiomas; los demás idiomas de la app llegarán después.",
+      "Vistas web localizadas basadas en los diseños recibidos, no capturas de una app publicada en estos idiomas. Los originales turcos están abajo.",
+      "Presentación visual sin sonido, con subtítulos en tu idioma. Iníciala cuando quieras; no se reproduce sola.",
+      "Precios previstos para EE. UU.: $4.99/mes o $39.99/año. Apple muestra precio local, impuestos y duración definitivos. Sin plan semanal, vitalicio ni prueba gratuita Pro.",
+      "Ocho pasos a tu ritmo, con texto legible en tu idioma.",
+      "Para ayuda privada, envía por correo versión de la app e iOS, modelo y pasos del fallo. Evita el contenido privado del diario y los datos de pago.",
+      "Letras legibles en ambos temas.",
+      "Pro: historial, páginas de diario, tus palabras y fotos, búsqueda avanzada, widget y fotos Editorial compatibles.",
+      "FREE: 72 horas de planificación básica, sin cobro automático."
+    ],
+    "labels": {
+      "nav": [
+        "Guía",
+        "Soporte",
+        "Idioma"
+      ],
+      "privacy": "Política de privacidad",
+      "terms": "Condiciones de uso",
+      "updated": "Actualizado el 2 de octubre de 2026",
+      "faq": "Preguntas frecuentes",
+      "contact": "Soporte privado",
+      "contactLead": "Envía por correo las versiones de la app y de iOS y los pasos para reproducir el problema. No envíes documentos sensibles ni datos de pago.",
+      "feedback": "Ayuda a crear la próxima versión.",
+      "noReviews": "Todavía no se han publicado reseñas aquí. Lee o comparte opiniones reales en GitHub.",
+      "readFeedback": "Leer comentarios",
+      "kind": "¿Qué quieres compartir?",
+      "kinds": [
+        "Reseña",
+        "Pregunta",
+        "Solicitud de función",
+        "Informe de error"
+      ],
+      "subject": "Asunto",
+      "message": "Tu mensaje",
+      "send": "Continuar en GitHub",
+      "feedbackNote": "Se abre un borrador, no se envía nada. Tú lo revisas y publicas en GitHub. Se necesita una cuenta de GitHub; los mensajes publicados son públicos. No incluyas documentos privados ni datos de identidad.",
+      "support": "Soporte"
+    }
+  },
+  "it": {
+    "hero": "I tuoi giorni, la tua storia.",
+    "lead": "Organizza le tue giornate. Attività completate, parole e foto diventano il tuo diario personale.",
+    "features": [
+      [
+        "Oggi e Più avanti",
+        "Aggiungi attività scrivendo o parlando. Imposta date, promemoria e ripetizioni: alla scadenza passano in Oggi."
+      ],
+      [
+        "I miei giorni: lo storico",
+        "Rivedi per data le attività pianificate, completate e ancora da fare. Apri anche la pagina del diario di quel giorno."
+      ],
+      [
+        "Un diario da sfogliare",
+        "Un solo registro al giorno raccoglie attività completate, parole e foto scelte da te. Sfoglia o scegli una data; non devi riscrivere quello che hai fatto."
+      ],
+      [
+        "Due atmosfere",
+        "In Storybook la volpe resta visibile mentre scorri le attività. Editorial è essenziale; Pro permette di sostituire le foto decorative supportate."
+      ],
+      [
+        "Leggi come preferisci",
+        "Scegli A mano, Sistema o Arrotondato in Aspetto. La scelta viene salvata; i testi compatibili seguono la dimensione dei caratteri dell’iPhone."
+      ]
+    ],
+    "steps": [
+      [
+        "Due mondi. Una sola app.",
+        "Scegli il calore di Storybook o la calma di Editorial."
+      ],
+      [
+        "Organizza la giornata",
+        "Completa le attività senza perdere di vista la volpe."
+      ],
+      [
+        "Scrivi o parla",
+        "Controlla data, ora e promemoria prima di aggiungere l’attività dettata."
+      ],
+      [
+        "Ogni cosa a suo tempo",
+        "Domani, prossimamente o un giorno: le attività restano al loro posto."
+      ],
+      [
+        "Ripercorri i tuoi giorni",
+        "I miei giorni mostra lo storico delle attività per data."
+      ],
+      [
+        "Il diario è pronto",
+        "Le tue parole, foto e attività completate formano una pagina personale. Sfoglia i giorni passati quando vuoi."
+      ],
+      [
+        "Editorial, con semplicità",
+        "Gli stessi dati in uno stile più sobrio. Personalizza le foto decorative supportate con Pro."
+      ],
+      [
+        "Scegli il tuo mondo",
+        "Cambia tema o carattere in seguito. I tuoi dati restano salvati."
+      ]
+    ],
+    "ui": [
+      "Oggi",
+      "Più avanti",
+      "I miei giorni",
+      "Diario",
+      "Altro",
+      "Buonasera!",
+      "Per oggi è tutto fatto. Ottimo lavoro!",
+      "completate",
+      "Colazione",
+      "Lezione di lingua",
+      "Fare una passeggiata",
+      "Leggere un libro",
+      "Domani",
+      "Prossimamente",
+      "Un giorno",
+      "Nuova attività",
+      "Domani alle 10, chiama il dentista",
+      "Aggiunta rapida",
+      "È stata una bella giornata. Dopo la lezione ho passeggiato lungo il fiume.",
+      "Cosa ho fatto oggi",
+      "Aggiungi foto",
+      "A mano",
+      "Sistema",
+      "Arrotondato",
+      "Carattere",
+      "Data",
+      "Promemoria",
+      "Ripeti",
+      "Scegli il tuo mondo",
+      "Inizia",
+      "Continua",
+      "Indietro",
+      "Schermate dell’app",
+      "Guarda la presentazione",
+      "Sottotitoli",
+      "Schermate originali dell’app in turco"
+    ],
+    "faq": [
+      [
+        "L’IA scrive il mio diario?",
+        "No. Il riepilogo usa le attività completate; il racconto contiene le tue parole scritte o dettate. Non inventa eventi o emozioni e non conserva un archivio audio."
+      ],
+      [
+        "Che differenza c’è tra Diario e I miei giorni?",
+        "I miei giorni è lo storico delle attività. Diario raccoglie parole, foto e attività completate in una pagina personale. Usano lo stesso registro per data."
+      ],
+      [
+        "FREE diventa un abbonamento?",
+        "No. Offre 72 ore di funzioni di base, senza Pro. L’abbonamento inizia solo se scegli e confermi l’acquisto."
+      ],
+      [
+        "Posso cambiare foto e carattere?",
+        "Scegli il carattere in Aspetto. Pro consente di sostituire le foto decorative Editorial supportate, regolare l’inquadratura e ripristinare le originali. Sono separate dalle foto del diario e restano salvate quando Pro termina."
+      ],
+      [
+        "Dove sono i miei dati?",
+        "I registri e le foto selezionate restano sul dispositivo. Il sito non riceve attività o diario. La versione attuale non offre sincronizzazione iCloud."
+      ],
+      [
+        "Posso scaricare l’app?",
+        "Il link App Store arriverà dopo la pubblicazione. Gli acquisti non sono ancora attivi."
+      ]
+    ],
+    "privacy": [
+      [
+        "Ambito e titolare",
+        "Daily Planner è l’app di pianificazione e diario di Süleyman Varol, con il marchio SLYMN. Questa informativa copre la versione attuale. Pubblicazione su App Store e configurazione abbonamenti sono da completare. Contatto: e-mail sotto."
+      ],
+      [
+        "Contenuti locali",
+        "Attività, storico, testi del diario, foto selezionate e preferenze sono salvati localmente con un registro comune per data. Il riepilogo usa attività completate senza inventare storie. Le foto decorative sono separate dal diario. Non sono previsti account dell’app, SDK pubblicitari o servizi di scrittura con IA. Il sito non riceve questi contenuti; iCloud non è disponibile al momento."
+      ],
+      [
+        "Voce e permessi",
+        "La voce è facoltativa e richiede permessi per microfono e riconoscimento vocale. Produce testo modificabile senza archivio audio. In base al dispositivo e ai servizi Apple, l’audio può essere inviato ad Apple e richiedere Internet. I promemoria usano date e scelte delle attività; le foto sono quelle selezionate. Gestisci i permessi in iOS."
+      ],
+      [
+        "Acquisti",
+        "Apple gestisce gli acquisti. RevenueCat è previsto per verificare abbonamenti e accessi, ma non è ancora configurato. Una volta attivo può trattare identificativi, storico acquisti, transazioni, diritti di accesso e metadati tecnici. Non riceviamo i dati completi della carta. Configurazione e dichiarazioni finali saranno verificate prima della pubblicazione."
+      ],
+      [
+        "Conservazione e cancellazione",
+        "I contenuti locali restano finché li elimini o viene rimosso lo spazio dati dell’app. I backup del dispositivo possono contenere copie e si gestiscono separatamente. Non disinstallare come primo tentativo se hai dati importanti. Non possiamo consultare o cancellare da remoto i tuoi registri locali."
+      ],
+      [
+        "Sito, assistenza e diritti",
+        "GitHub Pages può trattare registri di richieste e rete. Il sito salva localmente la lingua scelta, senza script pubblicitari o analitici aggiunti. L’assistenza Gmail riceve indirizzo, messaggio e allegati scelti per seguire la richiesta e conservarli quanto necessario. I commenti GitHub diventano pubblici solo se li pubblichi tu. Secondo la legge applicabile puoi chiedere accesso, rettifica, cancellazione, limitazione, portabilità o opposizione e rivolgerti all’autorità di protezione dati. Per i dati Apple o RevenueCat può essere necessario contattare il fornitore."
+      ],
+      [
+        "Aggiornamenti",
+        "L’informativa verrà aggiornata se cambia il trattamento dei dati. I link dei fornitori sono sotto."
+      ]
+    ],
+    "terms": [
+      [
+        "Uso e contenuti",
+        "Usa l’app legalmente e con i diritti sui contenuti aggiunti. Attività, testi e foto restano tuoi. Controlla le trascrizioni. È un aiuto organizzativo, non un servizio d’emergenza o un promemoria garantito."
+      ],
+      [
+        "FREE e Pro",
+        "FREE include funzioni di base per 72 ore dal primo utilizzo, senza Pro né abbonamento automatico. Ogni acquisto successivo richiede conferma esplicita."
+      ],
+      [
+        "Prezzi e abbonamenti",
+        "Prezzi USA previsti: $4.99 al mese o $39.99 all’anno, senza piano settimanale, a vita o prova gratuita Pro. Fanno fede prezzo locale, imposte e durata mostrati da Apple. Gli acquisti non sono ancora attivi; avverranno nell’app, non sul sito."
+      ],
+      [
+        "Rinnovo e disdetta",
+        "Gli abbonamenti a pagamento si rinnovano fino alla disdetta nelle impostazioni dell’account Apple. Disinstallare non annulla l’abbonamento. Ripristina acquisti idonei nell’app. Apple gestisce fatturazione e rimborsi secondo le sue condizioni e la legge applicabile."
+      ],
+      [
+        "Diario e personalizzazione",
+        "Il diario combina attività davvero completate, le tue parole e foto. Pro consente foto decorative Editorial supportate. Alla scadenza tornano le predefinite; le tue restano salvate per il rinnovo. Proteggi i dati importanti. Servizi esterni e impostazioni iOS possono influire sulle funzioni."
+      ],
+      [
+        "Licenza e diritti",
+        "Vale la licenza standard Apple salvo accordo personalizzato valido. Restano salvi i diritti inderogabili dei consumatori. Le modifiche saranno comunicate quando richiesto. Titolare: Süleyman Varol, SLYMN; contatto sotto."
+      ]
+    ],
+    "support": [
+      [
+        "Leggere il diario",
+        "Si apre l’ultima pagina con contenuti. Scorri o usa le frecce; il pulsante data porta ad altri giorni. Aggiungi parole scritte o dettate e foto allo stesso registro."
+      ],
+      [
+        "Promemoria e dettatura",
+        "Controlla notifiche, Full immersion, data e ora. Consenti microfono e riconoscimento vocale. Lingua, rete e servizi Apple possono influire; puoi sempre scrivere."
+      ],
+      [
+        "Carattere e foto",
+        "Scegli il carattere in Altro → Aspetto. Con Pro, tocca una foto decorativa Editorial supportata per cambiarla e regolare l’inquadratura. Le foto del diario sono indipendenti."
+      ],
+      [
+        "Acquisti e dati",
+        "Acquisti e ripristino saranno disponibili dopo la configurazione. Apple gestisce disdette e rimborsi. Non eliminare l’app come primo tentativo se conserva dati importanti."
+      ]
+    ],
+    "notes": [
+      "Link App Store dopo la pubblicazione. Acquisti non ancora attivi.",
+      "L’app attuale è in turco e inglese. Il sito offre otto lingue; le altre lingue dell’app arriveranno in seguito.",
+      "Anteprime web localizzate dai design forniti, non schermate di un’app pubblicata in queste lingue. Gli originali turchi sono sotto.",
+      "Presentazione visiva senza audio, con sottotitoli nella tua lingua. Avviala quando vuoi; niente riproduzione automatica.",
+      "Prezzi USA previsti: $4.99/mese o $39.99/anno. Apple mostra prezzo locale, imposte e durata definitivi. Nessun piano settimanale, a vita o prova gratuita Pro.",
+      "Otto passaggi al tuo ritmo, con testi leggibili nella tua lingua.",
+      "Per assistenza privata, invia versione app e iOS, modello e passaggi del problema via e-mail. Evita diario privato e dati di pagamento.",
+      "Caratteri leggibili in entrambi i temi.",
+      "Pro: storico, pagine del diario, parole e foto, ricerca avanzata, widget e foto Editorial supportate.",
+      "FREE: 72 ore di pianificazione di base, senza addebito automatico."
+    ],
+    "labels": {
+      "nav": [
+        "Guida",
+        "Assistenza",
+        "Lingua"
+      ],
+      "privacy": "Informativa sulla privacy",
+      "terms": "Condizioni d’uso",
+      "updated": "Aggiornato il 2 ottobre 2026",
+      "faq": "Domande frequenti",
+      "contact": "Assistenza privata",
+      "contactLead": "Invia per email versioni di app e iOS e passaggi per riprodurre il problema. Non inviare documenti sensibili o dati di pagamento.",
+      "feedback": "Contribuisci alla prossima versione.",
+      "noReviews": "Non ci sono ancora recensioni pubblicate qui. Leggi o condividi commenti reali su GitHub.",
+      "readFeedback": "Leggi i commenti",
+      "kind": "Cosa vuoi condividere?",
+      "kinds": [
+        "Recensione",
+        "Domanda",
+        "Richiesta di funzionalità",
+        "Segnalazione di errore"
+      ],
+      "subject": "Oggetto",
+      "message": "Il tuo messaggio",
+      "send": "Continua su GitHub",
+      "feedbackNote": "Si apre una bozza, senza inviare nulla. La controlli e pubblichi tu su GitHub. Serve un account GitHub; i messaggi pubblicati sono pubblici. Non includere documenti privati o dati identificativi.",
+      "support": "Assistenza"
+    }
+  },
+  "ja": {
+    "hero": "毎日を、あなたの一冊に。",
+    "lead": "予定を立てて、できたことを振り返る。あなたの言葉と写真が、日々の日記になります。",
+    "features": [
+      [
+        "今日とこれから",
+        "文字や音声でタスクを追加。日付、通知、繰り返しを設定すると、期日に「今日」へ移ります。"
+      ],
+      [
+        "日々の記録：タスク履歴",
+        "予定、完了、未完了のタスクを日付ごとに確認。その日の日記も開けます。"
+      ],
+      [
+        "ページをめくる日記",
+        "完了したタスク、自分の言葉、選んだ写真が、一日一つの記録にまとまります。ページをめくったり日付を選んだりして振り返れます。済んだことを書き直す必要はありません。"
+      ],
+      [
+        "二つの雰囲気",
+        "Storybookではタスクをスクロールしてもキツネの場面が見えたまま。Editorialはすっきりしたデザインで、Proなら対応する装飾写真を変更できます。"
+      ],
+      [
+        "読みやすさを選べる",
+        "表示設定で手書き風、システム、丸文字を選べます。選択は保存され、対応する文字はiPhoneの文字サイズ設定に合わせて表示されます。"
+      ]
+    ],
+    "steps": [
+      [
+        "二つの世界、一つのアプリ",
+        "温かなStorybook、落ち着いたEditorial。好みの世界を選びましょう。"
+      ],
+      [
+        "一日の予定を整理",
+        "キツネを見ながらタスクを確認し、完了にできます。"
+      ],
+      [
+        "書いても、話しても",
+        "音声で入力したら、日付、時刻、通知を確認して追加します。"
+      ],
+      [
+        "これからの予定も整う",
+        "明日、近日、いつか。期日まで、それぞれの場所で待機します。"
+      ],
+      [
+        "過ごした日を振り返る",
+        "日々の記録で、日付ごとのタスク履歴を確認できます。"
+      ],
+      [
+        "日記を開いて、ページをめくる",
+        "自分の言葉、写真、完了したタスクが一日のページになります。いつでも前の日に戻れます。"
+      ],
+      [
+        "静かなEditorial",
+        "同じ記録を、すっきりした見た目で。Proで対応する装飾写真を変更できます。"
+      ],
+      [
+        "あなたの世界を選ぶ",
+        "テーマや字体は後から変更できます。記録はそのまま残ります。"
+      ]
+    ],
+    "ui": [
+      "今日",
+      "これから",
+      "日々の記録",
+      "日記",
+      "その他",
+      "こんばんは！",
+      "今日のタスクはすべて完了。よくできました！",
+      "完了",
+      "朝食",
+      "語学レッスン",
+      "散歩する",
+      "本を読む",
+      "明日",
+      "近日",
+      "いつか",
+      "新しいタスク",
+      "明日の10時に歯医者へ電話",
+      "かんたん追加",
+      "今日はいい一日でした。レッスンを終えて、川沿いを散歩しました。",
+      "今日できたこと",
+      "写真を追加",
+      "手書き風",
+      "システム",
+      "丸文字",
+      "字体",
+      "日付",
+      "通知",
+      "繰り返し",
+      "世界を選ぶ",
+      "はじめる",
+      "次へ",
+      "戻る",
+      "アプリ画面",
+      "紹介を見る",
+      "字幕",
+      "トルコ語版アプリの実際の画面"
+    ],
+    "faq": [
+      [
+        "AIが日記を書くのですか？",
+        "いいえ。まとめは完了したタスクから作り、文章はあなたが書いたり話したりした言葉です。出来事や感情は作りません。音声アーカイブも保存しません。"
+      ],
+      [
+        "日記と日々の記録の違いは？",
+        "日々の記録はタスク履歴です。日記にはあなたの文章、写真、完了したタスクがまとまります。どちらも同じ日付の記録を使います。"
+      ],
+      [
+        "FREEは自動的に有料になりますか？",
+        "なりません。FREEは基本機能を72時間利用でき、Proは含まれません。購入を選び、確定した場合だけ有料契約が始まります。"
+      ],
+      [
+        "写真や字体を変えられますか？",
+        "字体は表示設定で選べます。Proなら対応するEditorialの装飾写真を変更し、位置調整や初期画像への復元ができます。日記写真とは別で、Pro終了後も選んだ写真は保持されます。"
+      ],
+      [
+        "データはどこに保存されますか？",
+        "記録と選んだ写真は端末内に保存されます。このサイトにタスクや日記は送信されません。現在の版にはiCloud同期はありません。"
+      ],
+      [
+        "今すぐダウンロードできますか？",
+        "公開後にApp Storeへのリンクを追加します。現在は購入できません。"
+      ]
+    ],
+    "privacy": [
+      [
+        "適用範囲と提供者",
+        "Daily PlannerはSüleyman VarolがSLYMNとして提供する予定管理・日記アプリです。本方針は現在のビルドを対象とします。App Store公開と購読サービスの設定は未完了です。連絡先は下記のメールです。"
+      ],
+      [
+        "端末内のデータ",
+        "タスク、履歴、日記文章、選んだ写真、設定を端末内に保存し、一日一つの共通記録を使います。まとめは完了タスクから作り、物語は創作しません。装飾写真と日記写真は別に管理します。アプリ用アカウント、広告SDK、AI執筆サービスは予定していません。このサイトはこれらの内容を受け取りません。現在iCloud同期は利用できません。"
+      ],
+      [
+        "音声と権限",
+        "任意の音声入力にはマイクと音声認識の許可が必要です。音声は編集可能な文字になり、音声アーカイブは残しません。端末とAppleの対応状況により音声がAppleへ送られ、通信が必要な場合があります。通知にはタスクの日付と設定を使い、写真は選択したものを使用します。権限はiOS設定で管理できます。"
+      ],
+      [
+        "購入",
+        "購入はAppleが処理します。RevenueCatは購読確認と利用権管理に使う予定ですが、未設定です。有効化後は識別子、購入履歴、取引、利用権、技術的メタデータを処理する場合があります。カード情報の全体は受け取りません。公開前に実際の設定と最終的な申告を確認します。"
+      ],
+      [
+        "保存と削除",
+        "端末内の内容は利用者が削除するかアプリの保存領域が削除されるまで残ります。端末のバックアップにあるコピーは別に管理してください。大切な記録がある場合、問題解決の最初の手順としてアプリを削除しないでください。提供者が端末内の記録を遠隔閲覧・削除することはできません。"
+      ],
+      [
+        "サイト、サポート、権利",
+        "GitHub Pagesはアクセスやネットワークのログを処理する場合があります。サイトは言語設定をブラウザ内に保存し、追加の広告・解析スクリプトは使いません。Gmailによるサポートでは送信者のアドレス、内容、選んだ添付を受け取り、対応と必要な保存に使用します。GitHubの意見は自分で投稿した場合のみ公開されます。適用法に応じ、開示、訂正、削除、制限、移転、異議申立てを求め、監督機関に相談できます。AppleやRevenueCatのデータについては各社への問い合わせが必要な場合があります。"
+      ],
+      [
+        "変更",
+        "データの取扱いが変わる場合、本方針を更新します。各提供者の方針は下記にリンクしています。"
+      ]
+    ],
+    "terms": [
+      [
+        "利用と内容",
+        "適法に、利用権のある内容だけを追加してください。タスク、文章、写真は利用者のものです。音声認識結果を確認してください。本アプリは予定管理の補助であり、緊急サービスや確実な通知を保証するものではありません。"
+      ],
+      [
+        "FREEとPro",
+        "FREEは初回利用から72時間の基本機能で、Proや自動購読は含みません。その後の有料利用には明示的な購入確認が必要です。"
+      ],
+      [
+        "価格と購読",
+        "米国向け予定価格は月額$4.99、年額$39.99です。週額、買い切り、Pro無料体験はありません。購入時にAppleが示す現地価格、税、期間が適用されます。購入機能は未有効で、今後アプリ内で提供し、サイトでは販売しません。"
+      ],
+      [
+        "更新、解約、返金",
+        "有料購読はAppleアカウント設定で解約するまで自動更新されます。アプリ削除では解約されません。対象購入はアプリ内で復元できます。請求と返金はAppleの条件および適用法に従います。"
+      ],
+      [
+        "日記と個人設定",
+        "日記は実際に完了したタスク、自分の言葉、写真を組み合わせます。Proで対応するEditorial装飾写真を変更できます。終了後は初期画像を表示し、個人写真は再契約に備えて保持します。大切な記録を保護してください。外部サービスやiOS設定で機能が影響を受ける場合があります。"
+      ],
+      [
+        "ライセンスと権利",
+        "有効な独自契約がない限りApple標準使用許諾契約が適用されます。法律上必須の消費者の権利は制限しません。必要な場合は変更を通知します。提供者はSüleyman Varol、SLYMNです。連絡先は下記にあります。"
+      ]
+    ],
+    "support": [
+      [
+        "日記を読む",
+        "内容のある最新ページが開きます。スワイプや矢印で移動し、日付ボタンで別の日を選べます。文字や音声の言葉、写真を同じ記録に追加できます。"
+      ],
+      [
+        "通知と音声",
+        "通知許可、集中モード、日付、時刻を確認します。音声入力にはマイクと音声認識の許可が必要です。言語、通信、Appleサービスで認識が変わる場合があります。文字入力も使えます。"
+      ],
+      [
+        "字体と写真",
+        "その他 → 表示設定で字体を選びます。Proなら対応するEditorial写真をタップして変更・位置調整できます。日記写真とは別です。"
+      ],
+      [
+        "購入とデータ",
+        "購入・復元は設定完了後に利用できます。解約・返金はAppleで管理します。大切な端末内データがある場合、最初にアプリを削除しないでください。"
+      ]
+    ],
+    "notes": [
+      "App Storeリンクは公開後に追加。現在は購入できません。",
+      "現在のアプリはトルコ語と英語に対応。サイトは8言語に対応し、アプリの他言語は後日追加予定です。",
+      "提供されたデザインを基にした多言語のウェブプレビューであり、各言語で公開済みのアプリのスクリーンショットではありません。トルコ語の実画面は下にあります。",
+      "選んだ言語の字幕で見る、音声なしの紹介。自分で再生してください。自動再生はしません。",
+      "米国向け予定価格：月額$4.99／年額$39.99。最終価格、税、期間はAppleが購入時に表示。週額、買い切り、Pro無料体験なし。",
+      "8つのステップを、読みやすい文章で、自分のペースで。",
+      "サポートにはアプリ・iOSの版、端末、問題の再現手順をメールしてください。非公開の日記や支払情報は送らないでください。",
+      "二つのテーマで読みやすい字体を選択。",
+      "Pro：タスク履歴、日記ページ、自分の言葉と写真、高度な検索、ウィジェット、対応するEditorial写真の変更。",
+      "FREE：72時間の基本予定管理。自動請求なし。"
+    ],
+    "labels": {
+      "nav": [
+        "使い方",
+        "サポート",
+        "言語"
+      ],
+      "privacy": "プライバシーポリシー",
+      "terms": "利用規約",
+      "updated": "更新日：2026年10月2日",
+      "faq": "よくある質問",
+      "contact": "個別サポート",
+      "contactLead": "アプリとiOSのバージョン、問題を再現する手順をメールでお知らせください。機密書類や決済情報は送らないでください。",
+      "feedback": "次のバージョンへのご意見を。",
+      "noReviews": "まだユーザーレビューは掲載されていません。実際のご意見をGitHubで読む・投稿できます。",
+      "readFeedback": "ユーザーのご意見を見る",
+      "kind": "投稿内容を選択",
+      "kinds": [
+        "レビュー",
+        "質問",
+        "機能のリクエスト",
+        "不具合の報告"
+      ],
+      "subject": "件名",
+      "message": "メッセージ",
+      "send": "GitHubで続ける",
+      "feedbackNote": "下書きが開くだけで、送信はされません。GitHubで確認して公開してください。GitHubアカウントが必要で、公開した投稿は誰でも閲覧できます。非公開の書類や身分証情報を含めないでください。",
+      "support": "サポート"
+    }
+  },
+  "ko": {
+    "hero": "하루하루가 나만의 이야기가 돼요.",
+    "lead": "할 일을 계획하고, 해낸 일과 내 말, 사진으로 나만의 일기를 쌓아 보세요.",
+    "features": [
+      [
+        "오늘과 나중에",
+        "글이나 음성으로 할 일을 추가하고 날짜, 알림, 반복을 설정하세요. 날짜가 되면 오늘로 이동해요."
+      ],
+      [
+        "나의 날들: 할 일 기록",
+        "날짜별로 계획한 일, 완료한 일, 미완료한 일을 확인하고 그날의 일기도 열어 보세요."
+      ],
+      [
+        "한 장씩 넘기는 일기",
+        "완료한 일과 내 말, 선택한 사진이 날짜당 하나의 기록으로 모여요. 페이지를 넘기거나 날짜를 고르세요. 해낸 일을 다시 적을 필요가 없어요."
+      ],
+      [
+        "두 가지 분위기",
+        "Storybook에서는 목록을 스크롤해도 여우 장면이 보여요. Editorial은 차분한 디자인이며 Pro로 지원되는 장식 사진을 바꿀 수 있어요."
+      ],
+      [
+        "읽기 편한 글꼴",
+        "화면 설정에서 손글씨, 시스템, 둥근 글꼴을 고르세요. 선택은 저장되며 지원되는 텍스트는 iPhone의 글자 크기 설정을 따라요."
+      ]
+    ],
+    "steps": [
+      [
+        "두 가지 세상, 하나의 앱",
+        "따뜻한 Storybook 또는 차분한 Editorial을 고르세요."
+      ],
+      [
+        "하루를 계획하세요",
+        "여우를 보면서 할 일을 확인하고 완료하세요."
+      ],
+      [
+        "쓰거나 말하거나",
+        "음성으로 입력한 뒤 날짜, 시간, 알림을 확인하고 추가하세요."
+      ],
+      [
+        "앞으로 할 일도 차근차근",
+        "내일, 곧, 언젠가. 날짜가 될 때까지 제자리에 있어요."
+      ],
+      [
+        "지난날을 돌아보세요",
+        "나의 날들에서 날짜별 할 일 기록을 확인해요."
+      ],
+      [
+        "일기가 준비됐어요",
+        "내 말, 사진, 완료한 일이 하루의 페이지가 돼요. 언제든 지난 페이지를 넘겨 보세요."
+      ],
+      [
+        "차분한 Editorial",
+        "같은 기록을 더 간결한 디자인으로. Pro로 지원되는 장식 사진을 바꿔 보세요."
+      ],
+      [
+        "나의 세상을 고르세요",
+        "테마와 글꼴은 나중에 바꿀 수 있어요. 기록은 그대로 남아요."
+      ]
+    ],
+    "ui": [
+      "오늘",
+      "나중에",
+      "나의 날들",
+      "일기",
+      "더 보기",
+      "좋은 저녁이에요!",
+      "오늘 할 일을 모두 마쳤어요. 잘했어요!",
+      "완료",
+      "아침 식사",
+      "외국어 수업",
+      "산책하기",
+      "책 읽기",
+      "내일",
+      "곧",
+      "언젠가",
+      "새 할 일",
+      "내일 10시에 치과에 전화하기",
+      "빠른 추가",
+      "오늘은 좋은 하루였다. 수업을 마치고 강가를 산책했다.",
+      "오늘 해낸 일",
+      "사진 추가",
+      "손글씨",
+      "시스템",
+      "둥근 글꼴",
+      "글꼴",
+      "날짜",
+      "알림",
+      "반복",
+      "나의 세상 선택",
+      "시작",
+      "다음",
+      "이전",
+      "앱 화면",
+      "소개 보기",
+      "자막",
+      "터키어 앱의 실제 화면"
+    ],
+    "faq": [
+      [
+        "AI가 일기를 쓰나요?",
+        "아니요. 요약은 완료한 할 일에서 만들고 이야기는 직접 쓰거나 말한 내용이에요. 사건이나 감정을 지어내지 않으며 별도의 음성 파일을 보관하지 않아요."
+      ],
+      [
+        "일기와 나의 날들은 어떻게 다른가요?",
+        "나의 날들은 할 일 기록이고 일기는 내 글, 사진, 해낸 일을 모은 페이지예요. 둘 다 같은 날짜의 기록을 사용해요."
+      ],
+      [
+        "FREE가 자동으로 유료가 되나요?",
+        "아니요. Pro를 제외한 기본 기능을 72시간 제공해요. 구매를 선택하고 확인한 경우에만 구독이 시작돼요."
+      ],
+      [
+        "사진과 글꼴을 바꿀 수 있나요?",
+        "화면 설정에서 글꼴을 선택하세요. Pro로 지원되는 Editorial 장식 사진을 바꾸고 위치를 조정하거나 기본 사진으로 되돌릴 수 있어요. 일기 사진과 별개이며 Pro가 끝나도 선택한 사진은 보관돼요."
+      ],
+      [
+        "데이터는 어디에 있나요?",
+        "기록과 선택한 사진은 기기에 저장돼요. 이 사이트는 할 일이나 일기를 받지 않아요. 현재 버전은 iCloud 동기화를 지원하지 않아요."
+      ],
+      [
+        "지금 다운로드할 수 있나요?",
+        "출시 후 App Store 링크를 추가할 예정이에요. 현재 구매는 활성화되지 않았어요."
+      ]
+    ],
+    "privacy": [
+      [
+        "적용 범위와 제공자",
+        "Daily Planner는 Süleyman Varol이 SLYMN으로 제공하는 일정 관리 및 일기 앱입니다. 이 방침은 현재 빌드에 적용됩니다. App Store 출시와 구독 서비스 설정은 아직 완료되지 않았습니다. 연락처는 아래 이메일입니다."
+      ],
+      [
+        "기기 내 콘텐츠",
+        "할 일, 이력, 일기, 선택한 사진, 설정은 기기에 저장되며 날짜당 하나의 공통 기록을 사용합니다. 요약은 완료한 일에서 만들며 이야기를 창작하지 않습니다. 장식 사진은 일기 사진과 별도입니다. 앱 계정, 광고 SDK, AI 글쓰기 서비스는 계획하지 않습니다. 사이트는 이 콘텐츠를 받지 않으며 현재 iCloud 동기화는 제공하지 않습니다."
+      ],
+      [
+        "음성과 권한",
+        "선택적인 음성 입력에는 마이크와 음성 인식 권한이 필요합니다. 편집 가능한 텍스트로 변환하며 별도 음성 보관함을 저장하지 않습니다. 기기 및 Apple 지원에 따라 음성이 Apple로 전송되고 인터넷이 필요할 수 있습니다. 알림은 할 일 날짜와 설정을 사용하고 사진은 선택한 항목을 사용합니다. iOS 설정에서 권한을 관리하세요."
+      ],
+      [
+        "구매",
+        "Apple이 구매를 처리합니다. RevenueCat은 구독 확인과 이용 권한 관리에 사용할 예정이지만 아직 설정되지 않았습니다. 활성화되면 식별자, 구매 이력, 거래, 이용 권한, 기술 메타데이터를 처리할 수 있습니다. 카드 정보 전체는 받지 않습니다. 출시 전에 실제 설정과 최종 고지 내용을 확인합니다."
+      ],
+      [
+        "보관과 삭제",
+        "기기 내 콘텐츠는 사용자가 삭제하거나 앱 저장 공간을 제거할 때까지 남습니다. 기기 백업의 사본은 별도로 관리합니다. 중요한 기록이 있다면 문제 해결의 첫 단계로 앱을 삭제하지 마세요. 제공자는 기기 내 기록을 원격 열람하거나 삭제할 수 없습니다."
+      ],
+      [
+        "사이트, 지원과 권리",
+        "GitHub Pages는 요청 및 네트워크 로그를 처리할 수 있습니다. 사이트는 언어 선택을 브라우저에 저장하며 추가 광고·분석 스크립트를 사용하지 않습니다. Gmail 지원은 이메일 주소, 메시지, 선택한 첨부를 받아 문의 처리와 필요한 보관에 사용합니다. GitHub 의견은 본인이 게시한 경우에만 공개됩니다. 적용 법률에 따라 열람, 정정, 삭제, 제한, 이전, 이의 제기를 요청하거나 감독 기관에 문의할 수 있습니다. Apple 또는 RevenueCat 데이터는 해당 제공자에 문의해야 할 수 있습니다."
+      ],
+      [
+        "변경",
+        "데이터 처리가 바뀌면 이 방침을 갱신합니다. 제공자 방침은 아래 링크에 있습니다."
+      ]
+    ],
+    "terms": [
+      [
+        "이용과 콘텐츠",
+        "합법적으로, 권리가 있는 콘텐츠만 추가하세요. 할 일, 글, 사진은 사용자의 콘텐츠입니다. 음성 인식 결과를 확인하세요. 앱은 일정 관리 보조 수단이며 긴급 서비스나 알림을 보장하지 않습니다."
+      ],
+      [
+        "FREE와 Pro",
+        "FREE는 첫 사용부터 72시간 기본 기능을 제공하며 Pro나 자동 구독은 포함하지 않습니다. 이후 유료 이용에는 명시적인 구매 확인이 필요합니다."
+      ],
+      [
+        "가격과 구독",
+        "미국 예정 가격은 월 $4.99 또는 연 $39.99입니다. 주간·평생 요금제나 Pro 무료 체험은 없습니다. Apple 구매 화면의 현지 가격, 세금, 기간이 적용됩니다. 구매는 아직 활성화되지 않았으며 추후 앱 내에서 제공하고 사이트에서는 판매하지 않습니다."
+      ],
+      [
+        "갱신, 해지와 환불",
+        "유료 구독은 Apple 계정 설정에서 해지할 때까지 자동 갱신됩니다. 앱 삭제로 해지되지 않습니다. 해당 구매를 앱에서 복원할 수 있습니다. 청구와 환불은 Apple 약관과 적용 법률에 따릅니다."
+      ],
+      [
+        "일기와 개인 설정",
+        "일기는 실제 완료한 일, 내 말, 사진을 결합합니다. Pro로 지원되는 Editorial 장식 사진을 바꿀 수 있습니다. 종료 시 기본 사진을 표시하고 개인 사진은 재구독을 위해 보관합니다. 중요한 기록을 보호하세요. 외부 서비스와 iOS 설정이 기능에 영향을 줄 수 있습니다."
+      ],
+      [
+        "라이선스와 권리",
+        "유효한 별도 계약이 없는 한 Apple 표준 최종 사용자 사용권 계약이 적용됩니다. 법적 소비자 권리는 제한하지 않습니다. 필요한 경우 변경을 알립니다. 제공자: Süleyman Varol, SLYMN. 연락처는 아래에 있습니다."
+      ]
+    ],
+    "support": [
+      [
+        "일기 읽기",
+        "내용이 있는 최신 페이지를 열어요. 스와이프나 화살표로 이동하고 날짜 버튼으로 다른 날을 선택하세요. 글·음성과 사진을 같은 기록에 추가하세요."
+      ],
+      [
+        "알림과 음성",
+        "알림 권한, 집중 모드, 날짜와 시간을 확인하세요. 음성 입력에는 마이크와 음성 인식 권한이 필요해요. 언어, 네트워크, Apple 서비스가 인식에 영향을 줄 수 있으며 글로도 입력할 수 있어요."
+      ],
+      [
+        "글꼴과 사진",
+        "더 보기 → 화면 설정에서 글꼴을 고르세요. Pro로 지원되는 Editorial 사진을 눌러 바꾸거나 위치를 조정하세요. 일기 사진과는 별개예요."
+      ],
+      [
+        "구매와 기록",
+        "설정 완료 후 구매와 복원을 이용할 수 있어요. 해지와 환불은 Apple이 관리해요. 중요한 기기 내 기록이 있다면 처음부터 앱을 삭제하지 마세요."
+      ]
+    ],
+    "notes": [
+      "App Store 링크는 출시 후 추가돼요. 구매는 아직 활성화되지 않았어요.",
+      "현재 앱은 터키어와 영어를 지원해요. 사이트는 8개 언어를 제공하며 앱의 다른 언어는 나중에 추가될 예정이에요.",
+      "제공된 디자인에 기반한 현지화 웹 미리보기이며 해당 언어로 출시된 앱의 스크린샷은 아니에요. 터키어 실제 화면은 아래에 있어요.",
+      "선택한 언어의 자막으로 보는 무음 소개예요. 원할 때 재생하세요. 자동 재생하지 않아요.",
+      "미국 예정 가격: 월 $4.99 / 연 $39.99. 최종 현지 가격, 세금과 기간은 Apple 구매 화면에서 확인하세요. 주간·평생 요금제나 Pro 무료 체험은 없어요.",
+      "읽기 편한 글로 8단계를 내 속도대로 살펴보세요.",
+      "개인 지원은 앱·iOS 버전, 기기 모델과 재현 단계를 이메일로 보내세요. 비공개 일기나 결제 정보는 보내지 마세요.",
+      "두 테마에서 읽기 편한 글꼴을 선택하세요.",
+      "Pro: 할 일 기록, 일기 페이지, 내 말과 사진, 고급 검색, 위젯, 지원되는 Editorial 사진 변경.",
+      "FREE: 72시간 기본 일정 관리. 자동 결제 없음."
+    ],
+    "labels": {
+      "nav": [
+        "사용 안내",
+        "지원",
+        "언어"
+      ],
+      "privacy": "개인정보 처리방침",
+      "terms": "이용약관",
+      "updated": "업데이트: 2026년 10월 2일",
+      "faq": "자주 묻는 질문",
+      "contact": "개별 지원",
+      "contactLead": "앱 및 iOS 버전과 문제를 재현하는 방법을 이메일로 보내 주세요. 민감한 문서나 결제 정보는 보내지 마세요.",
+      "feedback": "다음 버전을 함께 만들어 주세요.",
+      "noReviews": "아직 게시된 사용자 리뷰가 없습니다. GitHub에서 실제 의견을 읽거나 공유할 수 있습니다.",
+      "readFeedback": "사용자 의견 보기",
+      "kind": "어떤 내용을 공유하시겠어요?",
+      "kinds": [
+        "리뷰",
+        "질문",
+        "기능 요청",
+        "오류 신고"
+      ],
+      "subject": "제목",
+      "message": "메시지",
+      "send": "GitHub에서 계속",
+      "feedbackNote": "전송 없이 초안만 열립니다. GitHub에서 검토하고 직접 게시하세요. GitHub 계정이 필요하며 게시한 내용은 공개됩니다. 비공개 문서나 신분증 정보를 포함하지 마세요.",
+      "support": "지원"
+    }
+  }
+}
