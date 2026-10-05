@@ -47,6 +47,7 @@
       }
       if(select) { select.value = lang; select.setAttribute('aria-label',languageNames[lang]); }
       document.querySelectorAll('a').forEach(localLink);
+      window.dispatchEvent(new CustomEvent('slymn:language',{detail:lang}));
     };
     apply();
     if(select) select.addEventListener('change',() => {
