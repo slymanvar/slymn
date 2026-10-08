@@ -6,3 +6,5 @@ body[data-freebie-page] .support-panel button,body[data-freebie-page] .support-p
 body:has(script[src^="assets/planner/"]) .support-panel{--sf-bg:#fffdf9;--sf-input:#fff;--sf-text:#192c41;--sf-muted:#526373;--sf-border:#9faeb9}
 body:has(script[src^="assets/planner/"]) .support-panel button,body:has(script[src^="assets/planner/"]) .support-panel input::file-selector-button{background:#087ce7;color:#fff}
 @media(max-width:600px){.support-fields{grid-template-columns:1fr;gap:0}.support-panel button{width:100%}}
+
+.support-panel select{max-width:none}
